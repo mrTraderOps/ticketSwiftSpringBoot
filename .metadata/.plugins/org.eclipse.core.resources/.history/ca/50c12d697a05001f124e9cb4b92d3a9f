@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:replace="~{fragments/head.html :: head}"/>
+		<link rel="stylesheet" href="/assets/css/payment.css" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<h1>Circus Music Festival</h1>
+						
+							<span class="image main" style="display: flex; flex-direction: row;">
+								<img src="/images/circusMakati.png" alt="Circus Music Festival" style="width: 48%;" />
+								<div style="padding:115px 7%; display: flex; align-items: center; flex-direction: column;">
+									<h2 style="font-size: 2em; text-align: center; margin-bottom: 50px;">
+										Circus Music Festival 4
+									</h2>
+									<p style="font-weight: 600;">- 04 May 2024, 08:00am</p>
+									<p style="font-weight: 600;">- Circuit Makati Open Grounds</p>
+									<p style="font-weight: 600;">- No age restriction</p>
+								</div>
+					
+							</span>
+		
+							<div class="detailsDecAve">
+								<section class="keshi-header">
+									
+									<h2 style="font-size: 2em;">
+										
+									</h2>
+									
+								</section>
+								
+								<div style="
+										display: ruby-text;
+										padding: 10px 8%;
+								">
+									<h3 style="margin-bottom: 20px;"> 
+										Description
+									</h3>
+									<p>
+										𝑮𝒆𝒕 𝒓𝒆𝒂𝒅𝒚 𝒕𝒐 𝒓𝒐𝒄𝒌 𝒂𝒕 𝑪𝑰𝑹𝑪𝑼𝑺 𝑴𝑼𝑺𝑰𝑪 𝑭𝑬𝑺𝑻𝑰𝑽𝑨𝑳. 𝑨 𝑪𝒆𝒍𝒆𝒃𝒓𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑶𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝑷𝒊𝒏𝒐𝒚 𝑴𝒖𝒔𝒊𝒄 !🔥🔥🎪🎪
+									</p>
+									<p>𝘎𝘦𝘵 𝘳𝘦𝘢𝘥𝘺 𝘵𝘰 𝘨𝘳𝘰𝘰𝘷𝘦 𝘵𝘰 𝘵𝘩𝘦 𝘳𝘩𝘺𝘵𝘩𝘮 𝘢𝘯𝘥 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘵𝘩𝘦 𝘦𝘭𝘦𝘤𝘵𝘳𝘪𝘧𝘺𝘪𝘯𝘨 𝘢𝘵𝘮𝘰𝘴𝘱𝘩𝘦𝘳𝘦 𝘢𝘵 𝘊𝘪𝘳𝘤𝘶𝘴 𝘔𝘶𝘴𝘪𝘤 𝘍𝘦𝘴𝘵𝘪𝘷𝘢𝘭 4!  
+									𝘛𝘩𝘪𝘴 𝘺𝘦𝘢𝘳, 𝘱𝘳𝘦𝘱𝘢𝘳𝘦 𝘺𝘰𝘶𝘳𝘴𝘦𝘭𝘧 𝘧𝘰𝘳 𝘢𝘯 𝘶𝘯𝘧𝘰𝘳𝘨𝘦𝘵𝘵𝘢𝘣𝘭𝘦 𝘫𝘰𝘶𝘳𝘯𝘦𝘺 𝘪𝘯𝘵𝘰 𝘵𝘩𝘦 𝘩𝘦𝘢𝘳𝘵 𝘢𝘯𝘥 𝘴𝘰𝘶𝘭 𝘰𝘧 𝘖𝘳𝘪𝘨𝘪𝘯𝘢𝘭 𝘗𝘪𝘯𝘰𝘺 𝘔𝘶𝘴𝘪𝘤 (𝘖𝘗𝘔).
+									</p>
+								</div> 
+								
+								<div style="
+									display: flex;
+									align-items: center;
+									flex-direction: column;
+								">
+									<h3 style="margin-bottom: 20px;"> 
+										Floor Plan
+									</h3>
+									<img src="/images/keshi-floor.png" alt="Keshi Concert Floor Plan" width="66%" >
+								</div>
+
+							<h2 class="purchase-here" style="margin-top: 74px; font-size: 1.5em;">PURCHASE HERE</h2>
+
+							<form th:replace="~{fragments/payment-form.html :: payment-form}"/>
+							</form>
+							
+						</div>
+					</div>
+
+				<!-- Footer -->
+			</div>
+
+		<!-- Scripts -->
+			<div th:replace="~{fragments/scripts.html :: scripts-js}">
+			</div>
+
+	</body>
+</html>

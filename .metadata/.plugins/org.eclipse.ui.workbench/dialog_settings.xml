@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="EditorSelectionDialog">
+		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".html"/>
+		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="true"/>
+		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="Visual Studio Code Source File"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="WorkbenchPreferenceDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="-245"/>
+		<item key="DIALOG_Y_ORIGIN" value="-182"/>
+		<item key="DIALOG_WIDTH" value="1122"/>
+		<item key="DIALOG_HEIGHT" value="805"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|8.765218|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:replace="~{fragments/head.html :: head}"/>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+				
+				<!-- Ticker -->
+					<div th:replace = "~{fragments/ticker.html :: ticker}">
+					</div>
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+				
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<header>
+								<h1>Upcoming Events</h1>
+							</header>
+							<section class="tiles">
+								<article class="style1">
+									<span class="image">
+										<img src="/images/decAve_concert.png" alt="" />
+									</span>
+									<a th:href="@{/events/DecemberAvenue}">
+										
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/keshi-concert.png" alt="" />
+									</span>
+									<a th:href="@{/events/Keshi}">
+										
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/dionela-concert.png" alt="" />
+									</span>
+									<a th:href="@{/events/Keshi}">
+									
+									</a>
+								</article>
+								<article class="style4">
+									<span class="image">
+										<img src="images/sugarcane-banner.png" alt="" />
+									</span>
+									<a th:href="@{/events/Sugarcane}">
+									
+									</a>
+								</article>
+								<article class="style5">
+									<span class="image">
+										<img src="images/zack-concert.png" alt="" />
+									</span>
+									<a th:href="@{/events/Sugarcane}">
+										
+							
+									</a>
+								</article>
+								<article class="style6">
+									<span class="image">
+										<img src="images/aurora_fest.png" alt="" />
+									</span>
+									<a th:href="@{events/AuroraFest}">
+										
+									
+									</a>
+								</article>
+							</section>
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<!-- Footer -->
+					<footer th:replace="~{fragments/footer.html::footer}"/>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+      		<script>
+				document.getElementById('accountLink').addEventListener('click', function(event) {
+					event.preventDefault();
+					document.getElementById('accountProfile').style.display = 'block';
+				});
+
+				// ticker content
+				var newsItems = ['Welcome to TicketSwift!', 'From screen to stage, your ticket awaits.', 'Reserve your tickets now!'];
+				var tickerText = document.getElementById('ticker');
+				var newsIndex = 0;
+
+				function updateTicker() {
+					tickerText.textContent += ' || ' + newsItems[newsIndex];
+					newsIndex = (newsIndex + 1) % newsItems.length;
+				}
+
+				setInterval(updateTicker, 3000); // Update ticker every 3 seconds
+			</script>
+</body>
+</html>

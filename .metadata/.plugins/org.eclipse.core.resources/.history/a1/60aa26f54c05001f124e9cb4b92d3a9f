@@ -1,0 +1,152 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:replace="~{fragments/head.html :: head}"/>
+		<link rel="stylesheet" href="/assets/css/payment.css" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<h1>Keshi Concert Tour (Casey Thai Luong)</h1>
+							<span class="image main"><img src="/images/keshiBackG.png" alt="" /></span>
+
+							<div class="detailsDecAve">
+								<h3>
+									Keshi Concert 2023 (Tickets Added)｜keshi Epilogue Tour: Hong Kong｜
+									AsiaWorld-Expo (Show Added)
+								</h3>
+
+								<p>
+									Langit Mong Bughaw featured the band’s biggest hits, including “Bulong” (Whisper), 
+									“Kung Di Rin Lang Ikaw” (If It Wasn’t Just You) featuring Moira dela Torre, 
+									“Sa Ngalan Ng Pag-ibig” (In The Name Of Love), and “Huling Sandali” 
+									(The Last Moment), to name a few. All four songs have over a hundred million 
+									streams apiece, making December Avenue one of the most streamed Filipino artists 
+									today.
+								</p>
+
+								<p>
+									<i>
+										<strong>
+											"From instagram posted by SM Mall of Asia (smmoaarena)" - 
+											
+										</strong>
+										<a href="https://www.instagram.com/p/Cx4yO5sB-ds/?img_index=1">
+											https://www.instagram.com/p/Cx4yO5sB-ds/?img_index=1
+										</a>
+									</i>
+								</p>
+
+								<section>
+									<p> 
+										<strong >
+											"SplashMob, get ready to be blown away as we celebrate music, water and life!
+											Party with December Avenue, Mayonnaise and more exciting lineup of artists 
+											at this year's HYDRO Manila Music Festival happening on October 14, 2023 
+											at the SM MOA Concert Grounds!"
+											<br>
+											<br>
+										</strong>
+											"Secure your tickets to <strong>#HYDROManila2023AtSMMOAConcertGrounds</strong> today, 
+											available online at <a href="https://www.smtickets.com">www.smtickets.com</a> and at @sm_tickets outlets."
+									</p>
+
+									<img src="/images/decAve1.png" 
+									alt="December Avenue">
+								</section> 
+						
+
+								<article>
+									<strong>VIP Tickets:</strong> For those who want to enjoy the ultimate experience, 
+									our VIP tickets offer premium seating and exclusive perks. 
+									Priced at <strong>₱4,410.00</strong>, these tickets provide unparalleled comfort and luxury.
+									<br>
+									<strong>Gold Tickets:</strong> Our Gold tickets are perfect for those seeking a balance of 
+									value and quality. Priced at <strong>₱3,500.00</strong>, these seats offer excellent 
+									views and amenities, ensuring a memorable event experience.
+									<br>
+									<strong>Silver Tickets:</strong> If you're looking for a great seat at an affordable price, 
+									our Silver tickets are the ideal choice. Priced at <strong>₱2,000.00</strong>, these seats 
+									provide good views of the event without breaking the bank.
+									<br>
+									<strong>Regular Tickets:</strong> Our Bronze tickets offer fantastic value for those on a budget. 
+									Priced at <strong>₱1,500.00</strong>, these seats still provide an enjoyable event experience 
+									at a more economical price point.
+									<br>
+								</article>
+								<p>
+									To secure your preferred seat level, simply select the appropriate option from 
+									the dropdown menu below. Don't wait too long though, as tickets are selling 
+									fast!
+								</p>
+							</div>
+
+							<h2 class="purchase-here">PURCHASE HERE</h2>
+
+							<form th:replace="~{fragments/payment-form.html :: payment-form}"/>
+							</form>
+							
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Get in touch</h2>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<input type="text" name="name" id="name" placeholder="Name" />
+										</div>
+										<div class="field half">
+											<input type="email" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="field">
+											<textarea name="message" id="message" placeholder="Message"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send" class="primary" /></li>
+									</ul>
+								</form>
+							</section>
+							<section>
+								<h2>Follow</h2>
+								<ul class="icons">
+									<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li>
+									<li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<div th:replace="~{fragments/scripts.html :: scripts-js}">
+			</div>
+
+	</body>
+</html>

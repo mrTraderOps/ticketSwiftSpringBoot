@@ -1,0 +1,89 @@
+package com.ticketReservation.controllers;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import com.ticketReservation.models.eventdetailsModel;
+import com.ticketReservation.models.eventsModel;
+import com.ticketReservation.models.priceModel;
+import com.ticketReservation.services.ImageService;
+import com.ticketReservation.services.priceBusinessService;
+import com.ticketReservation.services.priceBusinessServiceInterface;
+
+@Controller
+@RequestMapping("/events")
+public class eventsController {
+	
+
+	ImageService imageService;
+	priceBusinessService service;
+	
+	@Autowired
+	public eventsController(priceBusinessService service,ImageService imageService) {
+		super();
+		this.service = service;
+		this.imageService = imageService;
+	}
+
+	@GetMapping("")
+	public String events(Model model) {
+		
+		model.addAttribute("publicViewModel", new eventsModel());
+		
+		return "index.html";
+	}
+	
+	@GetMapping("/view")
+	public String publicViewForm(@RequestParam("eventID") String eventID,
+								 @RequestParam("eventName") String eventName,
+								 Model model) {
+		
+		String imageURL = imageService.getImageURLForEvent(eventID);
+		
+		List <priceModel> prices = service.getPrices(eventID);
+		List <eventdetailsModel> details = service.createEventDetails(eventID);
+
+		model.addAttribute("eventName", eventName);
+		model.addAttribute("eventID", eventID);
+		model.addAttribute("details", details);
+		model.addAttribute("prices", prices);
+		model.addAttribute("imageURL", imageURL);
+		
+		
+		return "publicView.html";
+		}
+	
+	@GetMapping("/AuroraFest")
+	public String auroraFest(Model model) {
+		
+		model.addAttribute("AuroraFest", new eventsModel());
+		
+		return "auroraFest.html";
+	}
+	
+	@GetMapping("/DecemberAvenue")
+	public String decAve(Model model) {
+		
+		model.addAttribute("decAve", new eventsModel());
+		
+		return "decAve.html";
+	}
+	
+	@GetMapping("/Keshi")
+	public String keshi(Model model) {
+		
+		model.addAttribute("keshi", new eventsModel());
+		
+		return "keshi.html";
+	}
+	
+}
+
+	
+

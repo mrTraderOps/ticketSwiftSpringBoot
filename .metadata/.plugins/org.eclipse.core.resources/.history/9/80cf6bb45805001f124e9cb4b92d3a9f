@@ -1,0 +1,128 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:replace="~{fragments/head.html :: head}"/>
+		<link rel="stylesheet" href="/assets/css/payment.css" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<h1>Keshi Concert Tour (Casey Thai Luong)</h1>
+							<span class="image main"><img src="/images/keshiBackG.png" alt="Keshi" /></span>
+
+							<div class="detailsDecAve">
+								<section class="keshi-header">
+									<h2 style="font-size: 2em;">
+										Keshi Concert 2023 (Tickets Added)｜keshi Epilogue Tour: Hong Kong｜
+										AsiaWorld-Expo (Show Added)
+									</h2>
+									<img src="/images/keshi-concert.png" alt="Keshi Tour" / >
+								</section>
+								
+								<div style="
+										display: ruby-text;
+										padding: 10px 8%;
+								">
+									<h3 style="margin-bottom: 20px;"> 
+										About The Event
+									</h3>
+									<p>
+										Thank you for your love for keshi, after discussing with different parties, we will be adding extra tickets for each show, so that everyone who loves keshi can get in to see his first concert in Hong Kong! The additional tickets are only available at HKD 899 & 599 and will be available at ctyline this Friday!
+										
+										<ul>
+											<li>
+												Concert Date: 20-21 Nov 2023
+											</li>
+											<li>
+												Tickets Added: HKD 899 / 599 (All Standing) 
+											</li>
+											<li>
+												General Sale⁠: 2023.08.11 (Fri) 10am onwards at <a href="www.cityline.com">www.cityline.com</a>
+											</li>
+											<li>
+												Price: HKD 1899 (VIP 1) / 1499 (VIP 2) / 899 / 599 (All Standing)
+											</li>⁠								
+										</ul>
+									</p>
+								</div> 
+								
+								<div style="
+									display: flex;
+									align-items: center;
+									flex-direction: column;
+								">
+									<h3 style="margin-bottom: 20px;"> 
+										Floor Plan
+									</h3>
+									<img src="/images/keshi-floor.png" alt="Keshi Concert Floor Plan" width="66%" >
+								</div>
+
+							<h2 class="purchase-here">PURCHASE HERE</h2>
+
+							<form th:replace="~{fragments/payment-form.html :: payment-form}"/>
+							</form>
+							
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Get in touch</h2>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<input type="text" name="name" id="name" placeholder="Name" />
+										</div>
+										<div class="field half">
+											<input type="email" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="field">
+											<textarea name="message" id="message" placeholder="Message"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send" class="primary" /></li>
+									</ul>
+								</form>
+							</section>
+							<section>
+								<h2>Follow</h2>
+								<ul class="icons">
+									<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li>
+									<li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<div th:replace="~{fragments/scripts.html :: scripts-js}">
+			</div>
+
+	</body>
+</html>

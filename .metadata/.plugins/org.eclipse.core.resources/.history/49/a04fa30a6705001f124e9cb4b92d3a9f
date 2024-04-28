@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:replace="~{fragments/head.html :: head}"/>
+		<link rel="stylesheet" href="/assets/css/payment.css" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<h1>Dionela Concert Tour</h1>
+							<span class="image main"><img src="/images/dionela-backg.png" alt="Keshi" /></span>
+
+							<div class="detailsDecAve">
+								<section class="dionela-header">
+									<img src="/images/polaris.png" alt="Polaris" width="55%" style="width: 55%;"/>
+									<h2 style="font-size: 2em; display: flex; align-items: center; text-align: center;
+												padding: 68px;">
+										Social Polaris - A Balik UP Concert
+									</h2>
+								</section>
+								
+								<div style="
+										display: ruby-text;
+										padding: 10px 8%;
+								">
+									<h3 style="margin-bottom: 20px;"> 
+										About The Event
+									</h3>
+									<p>
+										TO RAISE funds for students who need dormitories, a concert for a cause will be held at the University of the Philippines Diliman campus.
+										
+										Proceeds from the “Social U: Polaris – A Balik-UP Concert” will benefit students who need dormitories for the second semester of Academic Year 2022-2023.
+										
+										
+										The concert features the biggest Filipino bands and upcoming artists such as December Avenue, Zack Tabudlo, Juan Karlos, Zild, and Tanya Markova, among others.
+										
+										The concert will be held on December 21 at the UP Sunken Garden.
+										
+										The event is also in celebration of Upsilon Sigma Phi’s 104th founding anniversary, in partnership with the Universal Music Group Philippines.
+										
+										Concert tickets can be acquired through http://bit.ly/PolarisBalikUPConcert2022 or at the UPD Promenade on Weekdays.
+									</p>
+								</div> 
+								
+								<div style="
+									display: flex;
+									align-items: center;
+									flex-direction: column;
+								">
+									<h3 style="margin-bottom: 20px;"> 
+										Floor Plan
+									</h3>
+									<img src="/images/keshi-floor.png" alt="Keshi Concert Floor Plan" width="66%" >
+								</div>
+
+							<h2 class="purchase-here" style="margin-top: 74px; font-size: 1.5em;">PURCHASE HERE</h2>
+
+							<form th:replace="~{fragments/payment-form.html :: payment-form}"/>
+							</form>
+							
+						</div>
+					</div>
+
+				<!-- Footer -->
+			</div>
+
+		<!-- Scripts -->
+			<div th:replace="~{fragments/scripts.html :: scripts-js}">
+			</div>
+
+	</body>
+</html>

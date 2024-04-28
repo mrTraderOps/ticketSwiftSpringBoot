@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:replace="~{fragments/head.html :: head}"/>
+		<link rel="stylesheet" href="/assets/css/payment.css" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<h1>Sugarcane</h1>
+						
+							<span class="image main">
+								<img src="/images/circusMakati.png" alt="Circus Makati Festival" />
+								<h2>
+									
+								</h2>
+							</span>
+		
+							<div class="detailsDecAve">
+								<section class="keshi-header">
+									
+									<h2 style="font-size: 2em;">
+										
+									</h2>
+									
+								</section>
+								
+								<div style="
+										display: ruby-text;
+										padding: 10px 8%;
+								">
+									<h3 style="margin-bottom: 20px;"> 
+										About The Event
+									</h3>
+									<p>
+										Thank you for your love for keshi, after discussing with different parties, we will be adding extra tickets for each show, so that everyone who loves keshi can get in to see his first concert in Hong Kong! The additional tickets are only available at HKD 899 & 599 and will be available at ctyline this Friday!
+										
+										<ul>
+											<li>
+												Concert Date: 20-21 Nov 2023
+											</li>
+											<li>
+												Tickets Added: HKD $899 / $599 (All Standing) 
+											</li>
+											<li>
+												General Sale⁠: 2023.08.11 (Fri) 10am onwards at <a href="www.cityline.com">www.cityline.com</a>
+											</li>
+											<li>
+												Price: HKD $1899 (VIP 1) / $1499 (VIP 2) / $899 / $599 (All Standing)
+											</li>⁠								
+										</ul>
+									</p>
+								</div> 
+								
+								<div style="
+									display: flex;
+									align-items: center;
+									flex-direction: column;
+								">
+									<h3 style="margin-bottom: 20px;"> 
+										Floor Plan
+									</h3>
+									<img src="/images/keshi-floor.png" alt="Keshi Concert Floor Plan" width="66%" >
+								</div>
+
+							<h2 class="purchase-here" style="margin-top: 74px; font-size: 1.5em;">PURCHASE HERE</h2>
+
+							<form th:replace="~{fragments/payment-form.html :: payment-form}"/>
+							</form>
+							
+						</div>
+					</div>
+
+				<!-- Footer -->
+			</div>
+
+		<!-- Scripts -->
+			<div th:replace="~{fragments/scripts.html :: scripts-js}">
+			</div>
+
+	</body>
+</html>
