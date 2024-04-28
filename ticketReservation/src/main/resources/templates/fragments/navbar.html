@@ -2,17 +2,17 @@
 <html xmlns:th="http://thymeleaf.org">
 <body>
 	<nav id="menu" th:fragment="navbar">
-		<h2>Menu</h2>
+		<h2 style="margin-bottom: 19px;
+				    margin-left: 6px;
+				    font-size: 1.2em;">Menu</h2>
 		<ul>
 			<li class="account-pic">
-				<a th:href="@{/account}">Account : <i>Earl Verzon</i></a> 
+				<a th:href="@{/TicketSwift/account}">Account : <i>Earl Verzon</i></a> 
 				<img src="/images/mini_profile.png" alt="Your Name" class="mini-profile" style="width: 60px;">
 			</li>
 			
-			<li><a th:href="@{/events}">Events</a></li>
-			<li><a th:href="@{/generic}">Generic</a></li>
-			<li><a th:href="@{/elements}">Elements</a></li>
-			<li><a th:href="@{/events}">SignUp/Login/Logout</a></li>
+			<li><a th:href="@{/events}">Upcoming Events</a></li>
+			<li><a th:href="@{/TicketSwift/login}">Login</a></li>
 		</ul>
 	</nav>
 </body>

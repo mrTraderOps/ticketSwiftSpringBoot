@@ -91,19 +91,19 @@ public class eventsController {
 		return "dionela.html";
 	}
 	
-	@GetMapping("/Sugarcane")
-	public String sugarcane(Model model) {
+	@GetMapping("/CircusMusicFest")
+	public String circus(Model model) {
 		
-		model.addAttribute("sugarcane", new eventsModel());
+		model.addAttribute("circus", new eventsModel());
 		
-		return "sugarcane.html";
+		return "circus.html";
 	}
 	@GetMapping("/ZackTabudlo")
 	public String zacktabudlo(Model model) {
 		
 		model.addAttribute("zacktabudlo", new eventsModel());
 		
-		return "zacktabudlo.html";
+		return "zack.html";
 	}
 	
 }

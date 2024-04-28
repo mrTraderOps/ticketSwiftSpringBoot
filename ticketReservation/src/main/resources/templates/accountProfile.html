@@ -1,6 +1,41 @@
 <!DOCTYPE html>
-<html lang="en" xmnls:th="http://thymleaf.org">
+<html lang="en" xmnls:th="http://thymeleaf.org">
 	<head th:replace="~{fragments/head.html :: head}"/>
+	<style>
+		.container {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+		.user-info {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-evenly;
+			padding: 51px 0%;
+		}
+		#dpBtn {
+			margin-top: -55px;
+    		margin-bottom: 39px;
+		}
+		h2 {
+			font-size: 1.8em;
+		}
+		h3 {
+			font-weight: 600;
+			letter-spacing: 0.08em;
+		}
+		input[type="text"], input[type="password"], input[type="email"], select {
+    	height: 2em;
+		}
+		h2, h3, h4, h5, h6 {
+		   text-transform: none;
+		}
+		.submitBtn {
+			margin-top: 10px;
+			text-align: end;
+		}
+	</style>
 	</head>
 	<body class="is-preload">
 		
@@ -16,37 +51,37 @@
 					
 			<!-- Main -->
 	        <div class="container">
-	            <h2>User Profile</h2>
-	            <form action="#" method="post" enctype="multipart/form-data">
-	                <div class="form-group">
-	                    <label for="profile-picture">Profile Picture:</label>
-	                    <input type="file" id="profile-picture" name="profile-picture">
-	                    <img id="preview" src="#" alt="Preview" style="display: none;">
-	                </div>
-	                <div class="form-group">
-	                    <label for="name">Name:</label>
-	                    <input type="text" id="name" name="name" required>
-	                </div>
-	                <div class="form-group">
-	                    <label for="description">Description:</label>
-	                    <textarea id="description" name="description" rows="4"></textarea>
-	                </div>
-	                <div class="form-group">
-	                    <button type="submit" class="edit-profile-btn">Edit Profile</button>
-	                </div>
-	            </form>
-	        </div>
-	        
-	        <!-- Footer -->
+				<span><img src="/images/mini_profile.png" ></span>
+				<button id="dpBtn">Change Photo</button>
+	            <h2>USER PROFILE</h2>
+	    	</div>
+	    	<div class="user-info">
+					<div class="left-side">
+						<p>Email : earlbandiola435@gmail.com</p>
+						<p>Account Name : Earl Verzon</p>
+						<p>Username : TraderOps</p>
+						<p>Password : **********</p>
+					</div>
+					<div class="right-side">
+						<form>
+		            		<h3>Change Password</h3>
+		            		<input type="password" placeholder="Current Password">
+		            		<input type="password" placeholder="New Password">
+		            		<div class="submitBtn">
+								<input type="submit" value="Change">
+							</div>
+						</form>	
+	        		</div>
+				</div>
+				<!-- Footer -->
 					<footer th:replace="~{fragments/footer.html::footer}"/>
 					</footer>
-	    </div>
 	
-	    <script src="assets/js/jquery.min.js"></script>
-	    <script src="assets/js/browser.min.js"></script>
-	    <script src="assets/js/breakpoints.min.js"></script>
-	    <script src="assets/js/util.js"></script>
-	    <script src="assets/js/main.js"></script>
+	    <script src="/assets/js/jquery.min.js"></script>
+	    <script src="/assets/js/browser.min.js"></script>
+	    <script src="/assets/js/breakpoints.min.js"></script>
+	    <script src="/assets/js/util.js"></script>
+	    <script src="/assets/js/main.js"></script>
 	
 	    <script>
 	        document.getElementById('profile-picture').addEventListener('change', function(event) {
