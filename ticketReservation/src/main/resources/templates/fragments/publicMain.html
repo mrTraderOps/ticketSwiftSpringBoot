@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+<body>
+	<div id="main" th:fragment="publicMain">
+		<div class="inner" th:each="details : ${details}">
+			
+			<h1 th:text="${eventName}")>Band/Event Name</h1>
+			<span class="image main"><img th:src="${imageURL}" alt="" /></span>
+			<p th:text="${details.firstDetails}">This is the first description, what is the event all about for/why does the concert takes place in this area? location of event? when is this event</p>
+			<p th:text="${details.secondDetails}">This is the second description, details about reservation how many level such as Bronze, Silver, Gold, VIP seat available tickets, tickets sold.</p>					
+
+			<h2>SELECT YOUR TICKET</h2>
+			<p>To buy your ticket please login <a th:href="@{TicketSwift/login}">Here</a></p>
+				<section>
+					<div class="table-wrapper"th:fragment="price-table">
+						<table>
+							<thead>
+								<tr>
+									<th>Seat Level</th>
+									<th>Date</th>
+									<th>Price</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr th:each="prices : ${prices}">
+									<td th:text="${prices.location}">SVIP</td>
+									<td th:text="${prices.date}">April 7</td>
+									<td th:text="${prices.price}">₱ 3,200.00</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</section>
+		</div>
+	</div>
+</body>
+</html>

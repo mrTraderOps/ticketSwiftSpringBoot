@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<body>
+	<div id="main" th:fragment="accountMain">
+		<div class="inner">
+			
+			<h1>CLARK AURORA MUSIC FESTIVAL</h1>
+			<span class="image main"><img src="images/auroraBGpix.jpg" alt="" /></span>
+			<p>This is the first description, what is the event all about for/why does the concert takes place in this area? location of event? when is this event</p>
+			<p style="margin-bottom: 50px;">This is the second description, details about reservation how many level such as Bronze, Silver, Gold, VIP seat available tickets, tickets sold.</p>					
+			<label>SELECT YOUR TICKET</label>
+			<form method="post" action="#">
+				<div class="row gtr-uniform">
+					<div class="col-12">
+						<select name="demo-category" id="demo-category">
+							<option value="">Ticket Location</option>
+							<option value="1">Regular - P124.00</option>
+							<option value="1">Silver - P213.00</option>
+							<option value="1">Gold - P123.00</option>
+							<option value="1">VIP - P435.00</option>
+						</select>										
+					</div>
+					<div>
+							<label for="quantity">Quantity (Can set to max)</label>
+							<input type="number" id="quantity" name="quantity" min="1" max="100" style="margin-bottom: 25px;">
+							<label for="paymentMethod">Select Payment Method</label>
+							<ul id="paymentMethod" class="payment">
+								<li><a href="#">GCASH</a></li>
+								<li><a href="#">ONLINE BANK</a></li>
+								<li><a href="#">CREDIT OR DEBIT CARD</a></li>
+							</ul>
+					</div>
+					<div class="container p-0">
+						<div class="card px-4">
+							<h3 class="h8 py-3">Payment Details</h3>
+							<div class="row gx-3">
+								<div class="col-12">
+									<div class="d-flex flex-column">
+										<input class="form-control mb-3" type="text" placeholder="Person Name">
+									</div>
+								</div>
+								<div class="col-12">
+									<div class="d-flex flex-column">
+										<input class="form-control mb-3" type="text" placeholder="Card Number - 1234 5678 435678">
+									</div>
+								</div>
+								<div class="col-6">
+									<div class="d-flex flex-column">
+										<input class="form-control mb-3" type="text" placeholder="Expiry - MM/YYYY">
+									</div>
+								</div>
+								<div class="col-6">
+									<div class="d-flex flex-column">
+										<input class="form-control mb-3 pt-2 " type="password" placeholder="CVV/CVC">
+									</div>
+								</div>
+								
+								<p></p>
+
+								<div class="col-12">
+									<div class="btn btn-primary mb-3">
+										<ul class="actions">
+											<li><a href="#" class="button">Pay P1230.00</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

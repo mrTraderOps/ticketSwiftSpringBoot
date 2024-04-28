@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" xmnls:th="http://thymleaf.org">
+	<head th:replace="~{fragments/head.html :: head}"/>
+	</head>
+	<body class="is-preload">
+		
+	    <div id="wrapper">
+			
+	        <!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+					
+	        <!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+					
+			<!-- Main -->
+	        <div class="container">
+	            <h2>User Profile</h2>
+	            <form action="#" method="post" enctype="multipart/form-data">
+	                <div class="form-group">
+	                    <label for="profile-picture">Profile Picture:</label>
+	                    <input type="file" id="profile-picture" name="profile-picture">
+	                    <img id="preview" src="#" alt="Preview" style="display: none;">
+	                </div>
+	                <div class="form-group">
+	                    <label for="name">Name:</label>
+	                    <input type="text" id="name" name="name" required>
+	                </div>
+	                <div class="form-group">
+	                    <label for="description">Description:</label>
+	                    <textarea id="description" name="description" rows="4"></textarea>
+	                </div>
+	                <div class="form-group">
+	                    <button type="submit" class="edit-profile-btn">Edit Profile</button>
+	                </div>
+	            </form>
+	        </div>
+	        
+	        <!-- Footer -->
+					<footer th:replace="~{fragments/footer.html::footer}"/>
+					</footer>
+	    </div>
+	
+	    <script src="assets/js/jquery.min.js"></script>
+	    <script src="assets/js/browser.min.js"></script>
+	    <script src="assets/js/breakpoints.min.js"></script>
+	    <script src="assets/js/util.js"></script>
+	    <script src="assets/js/main.js"></script>
+	
+	    <script>
+	        document.getElementById('profile-picture').addEventListener('change', function(event) {
+	            var file = event.target.files[0];
+	            var reader = new FileReader();
+	            reader.onload = function(e) {
+	                document.getElementById('preview').style.display = 'block';
+	                document.getElementById('preview').src = e.target.result;
+	            };
+	            reader.readAsDataURL(file);
+	        });
+	    </script>
+	</body>
+</html>

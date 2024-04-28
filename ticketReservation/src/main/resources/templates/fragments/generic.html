@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymleaf.org">
+	
+	<head th:replace="~{fragments/head.html :: head}"/>
+	</head>
+	
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>December Avenue</h1>
+							<span class="image main"><img src="images/pic13.jpg" alt="" /></span>
+							<p>This is the first description, what is the event all about for/why does the concert takes place in this area? location of event? when is this event</p>
+							
+							<p>This is the second description, details about reservation how many level such as Bronze, Silver, Gold, VIP seat available tickets, tickets sold.</p>					
+
+							<h2>SELECT YOUR TICKET</h2>
+							<form method="post" action="#">
+								<div class="row gtr-uniform">
+									<div class="col-12">
+										<select name="demo-category" id="demo-category">
+											<option value="">Ticket Level</option>
+											<option value="1">Bronze</option>
+											<option value="1">Silver</option>
+											<option value="1">Gold</option>
+											<option value="1">VIP</option>
+										</select>										
+									</div>
+									<div>
+										<form action="/action_page.php">
+											<label for="quantity">Quantity (Can set to max)</label>
+											<input type="number" id="quantity" name="quantity" min="1" max="100">
+											<input type="submit" value="Submit">
+										</form>
+									</div>
+								</div>
+							</form>
+
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer th:replace="~{fragments/footer.html::footer}"/>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

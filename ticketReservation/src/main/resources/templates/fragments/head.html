@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:fragment="head">
+			<title>TicketSwift</title>
+			<meta charset="utf-8" />
+			<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+			<link rel="stylesheet" th:href="@{/assets/css/main.css}" />
+			<noscript><link rel="stylesheet" th:href="@{/assets/css/noscript.css}" /></noscript>
+			<style>
+			/* CSS for moving background image effect */
+	        .image.main {
+	            position: relative;
+	            overflow: hidden;
+	            background-size: cover;
+	            background-position: center;
+	            animation: changeBackground 2s infinite linear; /* Adjust duration as needed */
+	        }
+	        
+	        .image.D1 {
+		    display: flex;
+		    justify-content: center;
+		    margin-top: 30px;
+			}
+
+			.image.tix {
+			display: flex;
+		    justify-content: center;
+		    margin-top: 30px;
+			}
+	
+	        @keyframes changeBackground {
+	            0%, 100% {
+	                background-image: url('auroraBGpix.jpg'); /* Start and end with the first background image */
+	            }
+	            50% {
+	                background-image: url('auroraBG2pix.jpg'); /* Transition to the second background image */
+	            }
+	        }
+	    	</style>
+	</head>
+</html>

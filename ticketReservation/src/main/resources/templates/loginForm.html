@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" th:href="@{/assets/css/loginForm.css}" />
+    <noscript><link rel="stylesheet" th:href="@{/assets/css/noscript.css}" /></noscript>
+    <title>Account Profile</title>
+    <style>
+
+    body {
+        background-image: url("/images/backgroundGIF.gif"); /* Background GIF */
+        background-size: cover;
+        background-position: center ;
+    }
+    </style>
+</head>
+
+<body>
+    <!-- Logo and tagline -->
+    <div class="logo-container">
+        <img src="/images/example.png" alt="Ticket Reservation Logo" class="logo">
+        <p class="tagline">FROM SCREEN TO STAGE<br><em>YOUR TICKET AWAITS</em></p>
+        <p class="reserve-text"> Reserve your tickets now!</p>
+    </div>
+
+    <!-- Login form -->
+    <div class="container"> 
+        <h3 style="letter-spacing: 3px; font-weight: bolder;">LOG IN TO TICKETSWIFT</h3>
+        <form action="#" method="POST">
+            <div class="input-box">
+                <input type="text" id="username" placeholder="Username" required autocomplete="username">
+            </div>
+            <div class="input-box password-toggle">
+                <input type="password" id="password" placeholder="Password" required>
+                <img class="toggle-icon" src="/images/showPass.png" alt="Toggle Password Visibility" onclick="togglePasswordVisibility()">
+            </div>
+            <a href="#" id="forgotPasswordLink">Forgot Password?</a>
+            <button type="submit" class="button" style="letter-spacing: 3px;">LOG IN</button>
+            <p id="createAccount">Don't have an account?<a th:href="@{login/signup}" id="createAccountLink">Register</a></p>
+        </form>
+    </div>
+
+   <script>
+    function togglePasswordVisibility() {
+        var passwordField = document.getElementById("password");
+        var toggleIcon = document.querySelector(".toggle-icon");
+        if (passwordField.type === "password") {
+            passwordField.type = "text";
+            toggleIcon.src = "/images/showPass.png"; /* Change to showPass.png */
+        } else {
+            passwordField.type = "password";
+            toggleIcon.src = "/images/hidePass.png"; /* Change to hidePass.png */
+        }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+	h2, h3, h4, h5, h6 {
+		margin: 0 0 2em 0;
+		letter-spacing: 0.35em;
+	}
+	table {
+		margin: 0 0 2em 0;
+	}
+	
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+		letter-spacing: 0.35em;
+		text-transform: uppercase;
+	}
