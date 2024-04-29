@@ -52,67 +52,23 @@
 							<p>In collaboration with the Clark Development Corporation and The Medical City Clark, and proudly brought to you by EPIC EVENTS, EGGSTOP, and MR. MACCHIATO, the Clark Aurora Music Festival promises an unforgettable experience. And let's not forget our proud presenter, FWD Insurance, the Official Insurance Partner of the event. So mark your calendars and get ready to immerse yourself in the magic of OPM under the stars!</p>
 
 							<span class="image tix"><img src="/images/seatPlanAF.jpg" alt="" /></span>					
-
-							<p><br>For more updates and all the juicy details, visit their Facebook page <a href="https://www.facebook.com/ClarkHotAirBalloonFest"> @Clark Aurora Music Festival </a>! Stay tuned for behind-the-scenes sneak peeks, artist announcements, and exclusive giveaways that will make your festival experience even more epic! 🎶
-							<h2>SELECT YOUR TICKET</h2>
-							<p>To buy your ticket please login <a th:href="@{/login}">Here</a></p>
-							<section>
-								<div th:replace="~{fragments/publicMain.html:: price-table}"/>
-								</div>
-							</section>
-
+							
+							<p><br>For more updates and all the juicy details, visit their Facebook page <a href="https://www.facebook.com/ClarkHotAirBalloonFest"> @Clark Aurora Music Festival </a>! Stay tuned for behind-the-scenes sneak peeks, artist announcements, and exclusive giveaways that will make your festival experience even more epic! 🎶		
+						
+							<div th:replace="~{fragments/publicPrice.html :: publicPrice}"/>
+							</div>
 						</div>
+						
+						
+						
 					</div>
 
 				<!-- Footer -->
-					<footer id="footer">
-						<div class="inner">
-							<section>
-								<h2>Get in touch</h2>
-								<form method="post" action="#">
-									<div class="fields">
-										<div class="field half">
-											<input type="text" name="name" id="name" placeholder="Name" />
-										</div>
-										<div class="field half">
-											<input type="email" name="email" id="email" placeholder="Email" />
-										</div>
-										<div class="field">
-											<textarea name="message" id="message" placeholder="Message"></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send" class="primary" /></li>
-									</ul>
-								</form>
-							</section>
-							<section>
-								<h2>Follow</h2>
-								<ul class="icons">
-									<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="#" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
-									<li><a href="#" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
-									<li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li>
-									<li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
-									<li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
-								</ul>
-							</section>
-							<ul class="copyright">
-								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-							</ul>
-						</div>
-					</footer>
-
-			</div>
+					
 
 		<!-- Scripts -->
-			<script src="/assets/js/jquery.min.js"></script>
-			<script src="/assets/js/browser.min.js"></script>
-			<script src="/assets/js/breakpoints.min.js"></script>
-			<script src="/assets/js/util.js"></script>
-			<script src="/assets/js/main.js"></script>
+			<div th:replace="~{fragments/scripts.html :: scripts-js}"/>
+			</div>
 
 	</body>
 </html>

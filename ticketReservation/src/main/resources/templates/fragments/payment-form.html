@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html xmlns:th="http://thymeleaf.org">
 <body>
-
-	<form class="payment-form" th:fragment="payment-form">
+	<div th:fragment="payment-form">
+		<h2 class="purchase-here" style="margin-top: 74px; font-size: 1.5em;" >PURCHASE HERE</h2>
+		<form class="payment-form">
 
 		<div class="container">
 
@@ -161,7 +162,7 @@
 					<h3>Summary</h3>
 
 					<form action="">
-					  <table>
+					  <table style="width: fit-content;">
 						<tr>
 						  <th>Ticket Seat</th>
 						  <th>Quantity</th>
@@ -197,6 +198,8 @@
 		</div>
 
 	</form>
+	</div>
+	
 	
 </body>
 </html>

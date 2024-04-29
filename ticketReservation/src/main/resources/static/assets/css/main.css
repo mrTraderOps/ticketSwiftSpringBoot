@@ -2840,11 +2840,12 @@ input, select, textarea {
 				vertical-align: middle;
 			}
 
-			#header .logo .symbol {
+			#header .logo #icon {
 				margin-right: 0.65em;
+				margin-top: 3px;
 			}
 
-				#header .logo .symbol img {
+				#header .logo #icon img {
 					display: block;
 					width: 2em;
 					height: 2em;
@@ -3357,4 +3358,9 @@ input, select, textarea {
 	text-align: right;
 }
 
+.wrap {
+	background-image: url("/images/eventsBg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 	
