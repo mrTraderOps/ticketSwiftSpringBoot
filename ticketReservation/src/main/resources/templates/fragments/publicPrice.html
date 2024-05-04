@@ -4,7 +4,7 @@
 	<div th:fragment="publicPrice">
 		<div class="inner">				
 			<h2>SELECT YOUR TICKET</h2>
-			<p>To buy your ticket please <a th:href="@{TicketSwift/login}">login here.</a></p>
+			<p>To buy your ticket please <a th:href="@{/TicketSwift/login}">login here.</a></p>
 				<section>
 					<div class="table-wrapper">
 						<table>
@@ -17,9 +17,9 @@
 							</thead>
 							<tbody>
 								<tr th:each="prices : ${prices}">
-									<td th:text="${prices.location}">SVIP</td>
-									<td th:text="${prices.date}">April 7</td>
-									<td th:text="${prices.price}">₱ 3,200.00</td>
+									<td th:text="${prices.location}"></td>
+									<td th:text="${prices.date}"></td>
+									<td th:text="${prices.price}"></td>
 								</tr>
 							</tbody>
 						</table>

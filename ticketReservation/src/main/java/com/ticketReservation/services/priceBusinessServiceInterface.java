@@ -9,6 +9,10 @@ public interface priceBusinessServiceInterface {
 	public void test();
 	
 	public List<priceModel> getPrices(String eventID);
+	
+	public void init();
+	
+	public void destroy();
 		
 	// future methods
 	

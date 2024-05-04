@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import com.ticketReservation.models.loginModel;
 
 @Controller
-@RequestMapping("TicketSwift/login")
+@RequestMapping("/TicketSwift/login")
 public class loginController
 {
 	@GetMapping("")

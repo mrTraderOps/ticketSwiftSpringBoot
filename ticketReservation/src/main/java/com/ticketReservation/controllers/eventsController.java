@@ -21,15 +21,13 @@ import com.ticketReservation.services.priceBusinessServiceInterface;
 public class eventsController {
 	
 
-//	ImageService imageService;
-//	priceBusinessService service;
-//	
-//	@Autowired
-//	public eventsController(priceBusinessService service,ImageService imageService) {
-//		super();
-//		this.service = service;
-//		this.imageService = imageService;
-//	}
+	priceBusinessServiceInterface service;
+	
+
+	public eventsController(priceBusinessServiceInterface service) {
+		super();
+		this.service = service;
+	}
 
 	@GetMapping("")
 	public String events(Model model) {
@@ -37,6 +35,78 @@ public class eventsController {
 		model.addAttribute("publicViewModel", new eventsModel());
 		
 		return "index.html";
+	}
+	
+	@GetMapping("/AuroraFest")
+	public String auroraFest(@RequestParam("eventID") String eventID, Model model) {
+		
+		List <priceModel> prices = service.getPrices(eventID);
+		
+		model.addAttribute("AuroraFest", new eventsModel());
+		model.addAttribute("eventID", eventID);
+		model.addAttribute("prices", prices);
+		
+		return "auroraFest.html";
+	}
+	
+	@GetMapping("/DecemberAvenue")
+	public String decAve(@RequestParam("eventID") String eventID, Model model) {
+		
+		List <priceModel> prices = service.getPrices(eventID);
+		
+		model.addAttribute("decAve", new eventsModel());
+		model.addAttribute("eventID", eventID);
+		model.addAttribute("prices", prices);
+		
+		return "decAve.html";
+	}
+	
+	@GetMapping("/Keshi")
+	public String keshi(@RequestParam("eventID") String eventID, Model model) {
+		
+		List <priceModel> prices = service.getPrices(eventID);
+		
+		model.addAttribute("keshi", new eventsModel());
+		model.addAttribute("eventID", eventID);
+		model.addAttribute("prices", prices);
+		
+		return "keshi.html";
+	}
+	
+	@GetMapping("/Dionela")
+	public String dionela(@RequestParam("eventID") String eventID, Model model) {
+		
+		List <priceModel> prices = service.getPrices(eventID);
+		
+		model.addAttribute("dionela", new eventsModel());
+		model.addAttribute("eventID", eventID);
+		model.addAttribute("prices", prices);
+		
+		return "dionela.html";
+	}
+	
+	@GetMapping("/CircusMusicFest")
+	public String circus(@RequestParam("eventID") String eventID, Model model) {
+		
+		List <priceModel> prices = service.getPrices(eventID);
+		
+		model.addAttribute("circus", new eventsModel());
+		model.addAttribute("eventID", eventID);
+		model.addAttribute("prices", prices);
+		
+		
+		return "circus.html";
+	}
+	@GetMapping("/ZackTabudlo")
+	public String zacktabudlo(@RequestParam("eventID") String eventID, Model model) {
+		
+		List <priceModel> prices = service.getPrices(eventID);
+		
+		model.addAttribute("zacktabudlo", new eventsModel());
+		model.addAttribute("eventID", eventID);
+		model.addAttribute("prices", prices);
+		
+		return "zack.html";
 	}
 	
 //	@GetMapping("/view")
@@ -58,53 +128,6 @@ public class eventsController {
 //		
 //		return "publicView.html";
 //		}
-	
-	@GetMapping("/AuroraFest")
-	public String auroraFest(Model model) {
-		
-		model.addAttribute("AuroraFest", new eventsModel());
-		
-		return "auroraFest.html";
-	}
-	
-	@GetMapping("/DecemberAvenue")
-	public String decAve(Model model) {
-		
-		model.addAttribute("decAve", new eventsModel());
-		
-		return "decAve.html";
-	}
-	
-	@GetMapping("/Keshi")
-	public String keshi(Model model) {
-		
-		model.addAttribute("keshi", new eventsModel());
-		
-		return "keshi.html";
-	}
-	
-	@GetMapping("/Dionela")
-	public String dionela(Model model) {
-		
-		model.addAttribute("dionela", new eventsModel());
-		
-		return "dionela.html";
-	}
-	
-	@GetMapping("/CircusMusicFest")
-	public String circus(Model model) {
-		
-		model.addAttribute("circus", new eventsModel());
-		
-		return "circus.html";
-	}
-	@GetMapping("/ZackTabudlo")
-	public String zacktabudlo(Model model) {
-		
-		model.addAttribute("zacktabudlo", new eventsModel());
-		
-		return "zack.html";
-	}
 	
 }
 
