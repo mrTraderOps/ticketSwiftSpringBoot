@@ -2,35 +2,68 @@ package com.ticketReservation.models;
 
 public class eventdetailsModel {
 	
-	String firstDetails = "";
-	String secondDetails = "";
+	long id = 0;
+	String event_name = "";
+	String seat_level = "";
+	String prices = "";
+	String date = "";
 	
-	
-	public String getFirstDetails() {
-		return firstDetails;
-	}
-	public void setFirstDetails(String firstDetails) {
-		this.firstDetails = firstDetails;
-	}
-	public String getSecondDetails() {
-		return secondDetails;
-	}
-	public void setSecondDetails(String secondDetails) {
-		this.secondDetails = secondDetails;
-	}
-	public eventdetailsModel(String firstDetails, String secondDetails) {
+	public eventdetailsModel(long id, String event_name, String seat_level, String prices, String date) {
 		super();
-		this.firstDetails = firstDetails;
-		this.secondDetails = secondDetails;
+		this.id = id;
+		this.event_name = event_name;
+		this.seat_level = seat_level;
+		this.prices = prices;
+		this.date = date;
 	}
-	@Override
-	public String toString() {
-		return "eventdetailsModel [firstDetails=" + firstDetails + ", secondDetails=" + secondDetails + "]";
-	}
+
 	public eventdetailsModel() {
 		super();
 	}
-	
-	
 
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+	public String getEvent_name() {
+		return event_name;
+	}
+
+	public void setEvent_name(String event_name) {
+		this.event_name = event_name;
+	}
+
+	public String getSeat_level() {
+		return seat_level;
+	}
+
+	public void setSeat_level(String seat_level) {
+		this.seat_level = seat_level;
+	}
+
+	public String getPrices() {
+		return prices;
+	}
+
+	public void setPrices(String prices) {
+		this.prices = prices;
+	}
+
+	public String getDate() {
+		return date;
+	}
+
+	public void setDate(String date) {
+		this.date = date;
+	}
+
+	@Override
+	public String toString() {
+		return "eventdetailsModel [id=" + id + ", event_name=" + event_name + ", seat_level=" + seat_level + ", prices="
+				+ prices + ", date=" + date + "]";
+	}
 }

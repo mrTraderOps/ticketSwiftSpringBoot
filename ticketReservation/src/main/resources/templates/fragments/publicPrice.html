@@ -11,15 +11,15 @@
 							<thead>
 								<tr>
 									<th>Seat Levels</th>
-									<th>Dates</th>
 									<th>Prices</th>
+									<th>Dates</th>
 								</tr>
 							</thead>
 							<tbody>
-								<tr th:each="prices : ${prices}">
-									<td th:text="${prices.location}"></td>
-									<td th:text="${prices.date}"></td>
-									<td th:text="${prices.price}"></td>
+								<tr th:each="details : ${details}">
+									<td th:text="${details.seat_level}"></td>
+									<td th:text="${details.prices}"></td>
+									<td th:text="${details.date}"></td>
 								</tr>
 							</tbody>
 						</table>

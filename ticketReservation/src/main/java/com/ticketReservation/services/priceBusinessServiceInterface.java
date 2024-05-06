@@ -2,28 +2,26 @@ package com.ticketReservation.services;
 
 import java.util.List;
 
-import com.ticketReservation.models.priceModel;
+import com.ticketReservation.models.pricesModel;
 
 public interface priceBusinessServiceInterface {
 	
 	public void test();
 	
-	public List<priceModel> getPrices(String eventID);
-	
 	public void init();
 	
 	public void destroy();
 		
-	// future methods
+	public pricesModel getById (long id);
 	
-	// searchDetails (String searchTerm)
+	public List<pricesModel> getPrices();
 	
-	// addDetails (priceModel new0)
+	public List<pricesModel> searchPrices(String searchTerm);
 	
-	// deletePrice (String location)
+	public long addOne(pricesModel newPrice);
 	
-	// updatePrice (OrderModel updateTerm)
+	public boolean deleteOne(long id);
 	
-	// getOnePrice (String location) 
+	public pricesModel updateOne(long idToUpdate, pricesModel updatePrice);
 
 }

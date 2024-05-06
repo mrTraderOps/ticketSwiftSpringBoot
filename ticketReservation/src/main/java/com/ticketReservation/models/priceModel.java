@@ -4,9 +4,9 @@ public class priceModel {
 	
 	String location = "";
 	String date = "";
-	String price = "";
+	long price = 0;
 	
-	public priceModel( String location, String date, String price) {
+	public priceModel( String location, String date, long price) {
 		super();
 		this.location = location;
 		this.date = date;
@@ -36,11 +36,11 @@ public class priceModel {
 		this.date = date;
 	}
 
-	public String getPrice() {
+	public long getPrice() {
 		return price;
 	}
 
-	public void setPrice(String price) {
+	public void setPrice(long price) {
 		this.price = price;
 	}
 	

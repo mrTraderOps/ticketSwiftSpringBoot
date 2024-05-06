@@ -3776,3 +3776,920 @@
 2024-05-05 00:59:30,880 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
 2024-05-05 00:59:31,306 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
 2024-05-05 01:24:56,289 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-05 10:10:23,206 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-05 10:11:51,614 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-05 10:13:47,175 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 10:13:47,223 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 10:13:48,452 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 10:23:52,281 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 10:23:54,131 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 10:23:54,228 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 10:43:24,557 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 10:43:24,825 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 10:43:24,925 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 10:44:39,223 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 10:44:39,248 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 10:44:39,298 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 10:47:52,226 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 10:47:52,242 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 10:47:52,353 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 10:49:16,419 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 10:49:16,473 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 10:49:16,655 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 10:54:22,764 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 10:54:22,786 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 10:54:22,837 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 10:55:01,324 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 10:55:01,377 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 10:55:01,499 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:01:52,534 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:01:52,555 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:01:52,649 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:04:13,707 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:04:13,729 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:04:13,797 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:09:34,467 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:09:34,488 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:09:34,532 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:09:45,649 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:09:45,665 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:09:45,718 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:11:39,941 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:11:39,963 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:11:40,022 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:12:33,574 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:12:33,593 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:12:33,649 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:13:39,798 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:13:39,820 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:13:39,863 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:13:49,053 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:13:49,079 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:13:49,164 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:17:04,291 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:17:04,310 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:17:04,378 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:19:36,459 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:19:36,475 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:19:36,516 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:20:38,962 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:20:38,984 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:20:39,030 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:20:44,075 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:20:44,099 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:20:44,155 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:22:12,485 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:22:12,514 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:22:12,568 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:22:49,339 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:22:49,363 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:22:49,452 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:23:09,025 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:23:09,042 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:23:09,076 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:27:09,565 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:27:09,586 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:27:09,638 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:27:14,996 [Worker-32: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:27:15,018 [Worker-32: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:27:15,076 [Worker-32: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:28:10,779 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:28:10,801 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:28:10,849 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:28:29,690 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:28:29,712 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:28:29,769 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:29:51,554 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:29:51,571 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:29:51,611 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:30:28,197 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:30:28,220 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:30:28,280 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:30:32,832 [Worker-32: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:30:32,861 [Worker-32: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:30:32,915 [Worker-32: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:30:55,595 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:30:55,620 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:30:55,669 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:32:35,827 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:32:35,844 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:32:35,894 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:32:47,640 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:32:47,661 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:32:47,710 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:35:01,464 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:35:01,480 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:35:01,527 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:35:10,148 [Worker-31: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:35:10,177 [Worker-31: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:35:10,237 [Worker-31: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:35:35,326 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:35:35,347 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:35:35,430 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 11:36:26,897 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 11:36:26,947 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 11:36:27,001 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 12:44:20,953 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 12:44:21,842 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 12:44:22,196 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 12:45:34,277 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 12:45:35,055 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 12:45:35,115 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 12:46:51,758 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 12:46:51,806 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 12:46:51,851 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 12:46:54,614 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 12:46:56,131 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 12:46:56,181 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:00:17,283 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:00:17,525 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:00:17,583 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:07:17,838 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:07:17,883 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:07:17,947 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:07:34,263 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:07:34,290 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:07:34,344 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:07:53,329 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:07:53,358 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:07:53,408 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:34:47,561 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:34:47,613 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:34:55,254 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:35:32,554 [Worker-57: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:35:32,580 [Worker-57: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:35:32,646 [Worker-57: Launching ticketReservation - TicketReservationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:37:36,393 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:37:36,710 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:37:36,753 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:38:01,242 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:38:01,295 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:38:01,765 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:38:27,814 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:38:27,837 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:38:27,888 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:41:31,331 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:41:31,357 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:41:31,400 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:42:45,303 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:42:45,333 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:42:45,375 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 13:49:19,158 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 13:49:19,177 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 13:49:19,220 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 14:06:09,067 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 14:06:09,125 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 14:06:09,172 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 14:07:09,147 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 14:07:09,170 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 14:07:09,227 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 14:31:22,398 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 14:31:22,431 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 14:31:22,472 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 14:31:29,546 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 14:31:30,061 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 14:31:30,168 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 14:32:51,127 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 14:32:51,266 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 14:32:51,328 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 14:33:40,707 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 14:33:40,741 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 14:33:40,784 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 14:33:47,872 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 14:33:47,897 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 14:33:47,955 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 15:41:39,709 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 15:41:41,012 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 15:41:41,101 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 15:46:12,833 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 15:46:12,854 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 15:46:12,926 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 15:46:23,721 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 15:46:24,710 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 15:46:24,844 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 15:54:51,174 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 15:54:51,335 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 15:54:51,462 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 15:58:43,094 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 15:58:43,166 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 15:58:43,221 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:00:05,709 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:00:05,727 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:00:05,776 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:00:20,905 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:00:20,948 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:00:20,990 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:03:06,245 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:03:06,989 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:03:07,058 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:04:32,850 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:04:32,870 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:04:32,912 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:06:38,384 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:06:38,408 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:06:38,471 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:06:47,941 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:06:48,029 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:06:48,100 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:08:20,345 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:08:20,368 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:08:20,439 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:10:07,860 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:10:07,876 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:10:07,914 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:23:19,291 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:23:19,322 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:23:19,368 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:23:35,078 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:23:35,165 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:23:35,222 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:23:53,146 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:23:53,169 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:23:53,244 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:24:01,274 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:24:01,304 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:24:01,343 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:24:23,590 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:24:23,650 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:24:23,691 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:24:31,198 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:24:31,223 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:24:31,281 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:25:20,204 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:25:20,221 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:25:20,259 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:55:26,925 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:55:26,947 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:55:26,988 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:57:48,152 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:57:48,387 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:57:48,427 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 16:58:42,833 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 16:58:42,856 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 16:58:42,903 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 17:00:13,549 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 17:00:13,571 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 17:00:13,624 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 17:00:21,804 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 17:00:21,934 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 17:00:21,976 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 17:00:27,061 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 17:00:27,085 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 17:00:27,124 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 17:10:49,755 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 17:10:49,797 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 17:10:49,842 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 17:13:51,972 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 17:13:51,987 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 17:13:52,020 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-05 17:16:06,526 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-05 17:16:06,554 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-05 17:16:06,610 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 04:18:37,934 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-06 04:28:35,634 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 04:28:36,287 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 04:28:37,913 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 04:51:26,718 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 04:51:28,860 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 04:51:29,060 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 04:55:37,329 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 04:55:38,258 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 04:55:38,375 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 04:55:56,820 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 04:55:58,797 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 04:55:58,846 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 05:05:55,864 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 05:05:57,131 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 05:05:57,214 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 05:10:23,888 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 05:10:27,230 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 05:10:27,534 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 05:11:05,104 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 05:11:06,884 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 05:11:07,352 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 05:16:33,565 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 05:16:33,696 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 05:16:34,470 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:25:04,976 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:25:11,413 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:25:11,536 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:29:08,158 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:29:10,632 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:29:10,896 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:30:08,211 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:30:08,853 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:30:08,895 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:30:45,610 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:30:48,041 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:30:48,123 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:30:57,680 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:30:58,091 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:30:58,177 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:31:16,707 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:31:17,016 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:31:17,138 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:31:42,935 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:31:44,900 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:31:44,958 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:32:38,877 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:32:40,373 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:32:40,556 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:32:52,499 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:32:52,554 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:32:52,613 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:33:43,498 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:33:43,549 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:33:43,605 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:34:11,012 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:34:11,054 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:34:11,097 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:34:54,371 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:34:54,397 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:34:54,451 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:41:43,881 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:41:44,342 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:41:44,694 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:41:49,841 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:41:49,864 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:41:50,166 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:42:27,983 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:42:28,027 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:42:28,085 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:42:58,175 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:42:58,194 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:42:58,272 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:43:08,529 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:43:08,556 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:43:08,602 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:43:23,175 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:43:23,203 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:43:23,251 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:45:27,963 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:45:27,982 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:45:28,031 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:52:57,890 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:52:58,270 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:52:58,657 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:53:00,443 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:53:00,465 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:53:00,527 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:53:47,664 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:53:47,685 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:53:47,766 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:54:09,176 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:54:09,204 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:54:09,246 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:54:27,625 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:54:27,657 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:54:27,744 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:55:38,560 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:55:38,937 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:55:39,025 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:55:49,027 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:55:49,045 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:55:49,123 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:56:28,719 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:56:29,813 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:56:29,861 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:56:46,740 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:56:46,767 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:56:46,834 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:57:48,661 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:57:49,068 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:57:49,133 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:58:32,359 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:58:33,668 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:58:33,768 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 06:59:35,790 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 06:59:36,067 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 06:59:36,129 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 07:03:39,655 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 07:03:41,667 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 07:03:41,741 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 07:06:41,153 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 07:06:41,909 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 07:06:41,945 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 07:07:10,389 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 07:07:10,408 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 07:07:10,464 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 07:10:45,609 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 07:10:45,667 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 07:10:45,747 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 07:25:27,738 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 07:25:30,601 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 07:25:31,644 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 07:47:52,057 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 07:47:54,688 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 07:47:54,982 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 21:36:13,081 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-06 22:45:17,082 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ticketReservation:0.0.1-SNAPSHOT @ C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\pom.xml.
+2024-05-06 22:45:24,759 [Worker-4: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.33/mysql-connector-java-8.0.33.pom
+2024-05-06 22:45:25,069 [Worker-4: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.33/mysql-connector-java-8.0.33.pom
+2024-05-06 22:45:25,145 [Worker-4: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.pom
+2024-05-06 22:45:25,175 [Worker-4: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.pom
+2024-05-06 22:45:25,817 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-05-06 22:45:26,671 [Worker-4: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar
+2024-05-06 22:45:27,518 [Worker-4: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar
+2024-05-06 22:45:30,956 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 22:45:31,278 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33-sources.jar
+2024-05-06 22:45:31,798 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33-sources.jar
+2024-05-06 22:45:31,806 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.0.33
+2024-05-06 22:45:32,601 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 22:46:37,354 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 22:46:49,520 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 22:46:49,567 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 22:46:54,351 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 22:54:45,574 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ticketReservation:0.0.1-SNAPSHOT @ C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\pom.xml.
+2024-05-06 22:55:00,928 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.2.5/spring-boot-starter-data-jdbc-3.2.5.pom
+2024-05-06 22:55:01,704 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.2.5/spring-boot-starter-data-jdbc-3.2.5.pom
+2024-05-06 22:55:01,868 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.2.2/spring-boot-starter-jdbc-3.2.2.pom
+2024-05-06 22:55:01,968 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.2.2/spring-boot-starter-jdbc-3.2.2.pom
+2024-05-06 22:55:02,052 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.pom
+2024-05-06 22:55:02,068 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.pom
+2024-05-06 22:55:02,225 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.1.3/spring-jdbc-6.1.3.pom
+2024-05-06 22:55:02,251 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.1.3/spring-jdbc-6.1.3.pom
+2024-05-06 22:55:02,335 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.3/spring-tx-6.1.3.pom
+2024-05-06 22:55:02,350 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.3/spring-tx-6.1.3.pom
+2024-05-06 22:55:02,402 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.2.2/spring-data-jdbc-3.2.2.pom
+2024-05-06 22:55:02,430 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.2.2/spring-data-jdbc-3.2.2.pom
+2024-05-06 22:55:02,660 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational-parent/3.2.2/spring-data-relational-parent-3.2.2.pom
+2024-05-06 22:55:02,690 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational-parent/3.2.2/spring-data-relational-parent-3.2.2.pom
+2024-05-06 22:55:02,760 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/3.2.2/spring-data-parent-3.2.2.pom
+2024-05-06 22:55:02,780 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/3.2.2/spring-data-parent-3.2.2.pom
+2024-05-06 22:55:02,875 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/3.2.2/spring-data-build-3.2.2.pom
+2024-05-06 22:55:02,891 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/3.2.2/spring-data-build-3.2.2.pom
+2024-05-06 22:55:02,985 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.2.2/spring-data-relational-3.2.2.pom
+2024-05-06 22:55:03,001 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.2.2/spring-data-relational-3.2.2.pom
+2024-05-06 22:55:03,064 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.2/spring-data-commons-3.2.2.pom
+2024-05-06 22:55:03,064 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.2/spring-data-commons-3.2.2.pom
+2024-05-06 22:55:03,474 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/jsqlparser/jsqlparser/4.6/jsqlparser-4.6.pom
+2024-05-06 22:55:03,490 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/jsqlparser/jsqlparser/4.6/jsqlparser-4.6.pom
+2024-05-06 22:55:04,830 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-05-06 22:55:05,416 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.2.5/spring-boot-starter-data-jdbc-3.2.5.jar
+2024-05-06 22:55:05,440 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.2.5/spring-boot-starter-data-jdbc-3.2.5.jar
+2024-05-06 22:55:05,525 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+2024-05-06 22:55:05,594 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+2024-05-06 22:55:05,603 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.2.2/spring-boot-starter-jdbc-3.2.2.jar
+2024-05-06 22:55:05,625 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.2.2/spring-boot-starter-jdbc-3.2.2.jar
+2024-05-06 22:55:05,650 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/jsqlparser/jsqlparser/4.6/jsqlparser-4.6.jar
+2024-05-06 22:55:05,671 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.2/spring-data-commons-3.2.2.jar
+2024-05-06 22:55:05,824 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/jsqlparser/jsqlparser/4.6/jsqlparser-4.6.jar
+2024-05-06 22:55:05,840 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.1.3/spring-jdbc-6.1.3.jar
+2024-05-06 22:55:05,888 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.2.2/spring-data-jdbc-3.2.2.jar
+2024-05-06 22:55:05,888 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.3/spring-tx-6.1.3.jar
+2024-05-06 22:55:05,919 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.2.2/spring-data-relational-3.2.2.jar
+2024-05-06 22:55:05,982 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.3/spring-tx-6.1.3.jar
+2024-05-06 22:55:06,123 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.2.2/spring-data-jdbc-3.2.2.jar
+2024-05-06 22:55:06,156 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.1.3/spring-jdbc-6.1.3.jar
+2024-05-06 22:55:06,201 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.2.2/spring-data-relational-3.2.2.jar
+2024-05-06 22:55:06,442 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.2/spring-data-commons-3.2.2.jar
+2024-05-06 22:55:12,073 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.2.5/spring-boot-starter-data-jdbc-3.2.5-sources.jar
+2024-05-06 22:55:12,164 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.2.5/spring-boot-starter-data-jdbc-3.2.5-sources.jar
+2024-05-06 22:55:12,215 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jdbc:3.2.5
+2024-05-06 22:55:12,382 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.2.2/spring-boot-starter-jdbc-3.2.2-sources.jar
+2024-05-06 22:55:12,384 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/3.2.2/spring-boot-starter-jdbc-3.2.2-sources.jar
+2024-05-06 22:55:12,396 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc:3.2.2
+2024-05-06 22:55:12,511 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1-sources.jar
+2024-05-06 22:55:12,603 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1-sources.jar
+2024-05-06 22:55:12,664 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.zaxxer:HikariCP:5.0.1
+2024-05-06 22:55:12,802 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.1.3/spring-jdbc-6.1.3-sources.jar
+2024-05-06 22:55:12,985 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/6.1.3/spring-jdbc-6.1.3-sources.jar
+2024-05-06 22:55:13,003 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:6.1.3
+2024-05-06 22:55:13,554 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.2.2/spring-data-jdbc-3.2.2-sources.jar
+2024-05-06 22:55:13,582 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.2.2/spring-data-jdbc-3.2.2-sources.jar
+2024-05-06 22:55:13,582 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jdbc:3.2.2
+2024-05-06 22:55:14,026 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.2.2/spring-data-relational-3.2.2-sources.jar
+2024-05-06 22:55:14,132 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.2.2/spring-data-relational-3.2.2-sources.jar
+2024-05-06 22:55:14,135 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-relational:3.2.2
+2024-05-06 22:55:14,282 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/jsqlparser/jsqlparser/4.6/jsqlparser-4.6-sources.jar
+2024-05-06 22:55:14,436 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/jsqlparser/jsqlparser/4.6/jsqlparser-4.6-sources.jar
+2024-05-06 22:55:14,483 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.jsqlparser:jsqlparser:4.6
+2024-05-06 22:55:14,702 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.2/spring-data-commons-3.2.2-sources.jar
+2024-05-06 22:55:14,886 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/3.2.2/spring-data-commons-3.2.2-sources.jar
+2024-05-06 22:55:14,886 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:3.2.2
+2024-05-06 22:55:15,382 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.3/spring-tx-6.1.3-sources.jar
+2024-05-06 22:55:15,553 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.1.3/spring-tx-6.1.3-sources.jar
+2024-05-06 22:55:15,562 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:6.1.3
+2024-05-06 22:55:20,957 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-06 22:55:20,983 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-06 22:55:21,128 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 22:55:34,583 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 22:55:35,613 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 22:55:38,030 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:08:11,984 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:08:13,635 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-06 23:08:13,836 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:08:38,505 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:08:38,692 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-06 23:08:38,717 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:16:49,752 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:16:49,842 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-06 23:16:49,934 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:19:24,075 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:19:24,818 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:19:25,079 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:21:52,666 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:21:52,703 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:21:52,930 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:23:39,073 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:23:39,118 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:23:39,175 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:23:59,344 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:23:59,423 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:23:59,504 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:24:20,756 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:24:20,780 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:24:20,828 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:30:21,314 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:30:38,511 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:30:44,735 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:32:22,807 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:32:22,827 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:32:22,956 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:35:11,466 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:35:12,409 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:35:12,509 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:37:30,218 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:37:30,426 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:37:30,473 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:38:35,557 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:38:35,576 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:38:35,635 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:40:23,535 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:40:23,579 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:40:23,757 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:45:25,268 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:45:25,742 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:45:25,791 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:47:54,414 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:47:54,949 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:47:54,994 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-06 23:48:00,858 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 23:48:00,884 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-06 23:48:00,980 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:07:18,133 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:07:20,640 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:07:22,150 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:08:05,568 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:08:07,082 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:08:07,300 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:09:14,964 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:09:15,791 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:09:15,899 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:09:35,244 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:09:36,482 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:09:38,144 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:12:55,048 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:12:55,220 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:12:55,269 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:13:01,708 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:13:01,936 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:13:01,996 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:13:37,908 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:13:38,054 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:13:38,110 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:14:16,375 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:14:16,413 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:14:16,473 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:14:30,218 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:14:32,053 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:14:32,095 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:14:39,325 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:14:40,355 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:14:40,412 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:15:10,877 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:15:11,550 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:15:11,685 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:16:00,731 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:16:03,662 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:16:03,703 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:16:18,007 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:16:18,037 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:16:18,093 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:16:34,183 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:16:35,111 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:16:35,155 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:16:46,244 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:16:46,694 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:16:46,909 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:22:34,173 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:22:35,235 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:22:35,303 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:24:33,971 [Worker-72: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:24:35,354 [Worker-72: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:24:35,395 [Worker-72: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:25:52,750 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:25:53,418 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:25:53,484 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:30:26,147 [Worker-74: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:30:28,631 [Worker-74: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:30:28,693 [Worker-74: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:30:58,312 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:30:59,480 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:30:59,575 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:31:18,266 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:31:18,512 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:31:18,602 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:34:14,454 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:34:18,203 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:34:18,281 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:34:33,551 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:34:34,199 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:34:34,250 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:35:18,342 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:35:19,150 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:35:19,223 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 00:39:01,122 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 00:39:01,329 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 00:39:01,414 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 01:16:32,357 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 01:16:37,705 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 01:16:37,811 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 01:17:59,419 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 01:17:59,752 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 01:17:59,810 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 01:18:50,902 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 01:18:51,568 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 01:18:51,611 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 01:20:14,492 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-07 01:20:14,541 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 01:20:14,614 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 01:21:45,357 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 01:21:47,809 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 01:21:48,051 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 01:22:06,683 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 01:22:08,119 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 01:22:08,189 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:21:18,188 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:21:20,671 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:21:20,753 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:37:22,230 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:37:23,054 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:37:23,113 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:38:25,501 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:38:26,027 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:38:26,094 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:38:36,852 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:38:37,695 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:38:37,757 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:39:40,776 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:39:42,335 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:39:42,377 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:40:15,086 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:40:15,517 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:40:15,586 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:41:22,165 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:41:23,061 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:41:23,113 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:41:46,827 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:41:48,909 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:41:48,957 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:42:20,844 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:42:21,247 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:42:21,290 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:43:20,607 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:43:20,630 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:43:20,702 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:44:15,239 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:44:16,473 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:44:16,531 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:44:35,448 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:44:35,530 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:44:35,582 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:45:51,707 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:45:51,952 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:45:51,997 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:46:36,314 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:46:36,330 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:46:36,368 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:46:48,068 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:46:48,089 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:46:48,140 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:47:03,176 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:47:03,194 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:47:03,253 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:47:26,550 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:47:26,573 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:47:26,617 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:48:05,913 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:48:05,929 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:48:05,985 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:49:22,012 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:49:22,032 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:49:22,082 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:49:45,798 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:49:45,817 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:49:45,869 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:50:26,347 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:50:26,370 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:50:26,429 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:50:39,243 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:50:39,260 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:50:39,299 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:50:50,647 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:50:50,670 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:50:50,727 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:51:25,135 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:51:25,155 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:51:25,195 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:51:40,914 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:51:40,932 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:51:40,976 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:52:00,365 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:52:00,382 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:52:00,420 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:52:26,944 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:52:26,963 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:52:27,002 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:52:44,974 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:52:45,228 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:52:45,274 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:55:06,661 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:55:06,922 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:55:06,971 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:56:17,566 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:56:18,053 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:56:18,094 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:57:01,453 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:57:01,624 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:57:01,671 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:57:17,995 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:57:18,044 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:57:18,101 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:57:45,934 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:57:45,955 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:57:45,995 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:57:53,201 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:57:53,223 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:57:53,270 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:58:27,529 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:58:27,551 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:58:27,605 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:59:09,292 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:59:10,210 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:59:10,270 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 02:59:35,557 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 02:59:35,565 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 02:59:35,722 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:00:03,271 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:00:03,289 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:00:03,443 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:00:23,628 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:00:23,688 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:00:23,745 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:00:45,750 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:00:45,780 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:00:45,834 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:01:54,745 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:01:54,824 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:01:54,881 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:02:29,365 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:02:29,451 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:02:29,518 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:03:29,981 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:03:30,006 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:03:30,065 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:05:38,373 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:05:38,404 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:05:38,474 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:06:04,259 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:06:04,282 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:06:04,353 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:06:32,886 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:06:32,910 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:06:32,957 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:06:38,391 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:06:38,430 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:06:38,473 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:07:41,538 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:07:41,556 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:07:41,595 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:09:21,847 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:09:21,870 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:09:21,923 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:10:54,706 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:10:54,724 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:10:54,768 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:11:42,541 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:11:42,561 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:11:42,607 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:12:36,044 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:12:36,517 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:12:36,579 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:13:31,250 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:13:31,272 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:13:31,318 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:15:06,728 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:15:06,742 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:15:06,782 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:15:22,370 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:15:22,395 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:15:22,449 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:16:24,714 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:16:24,737 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:16:24,932 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:17:29,701 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:17:29,723 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:17:29,780 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:18:44,536 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:18:44,556 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:18:44,600 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:18:59,254 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:18:59,335 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:18:59,404 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:20:31,523 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:20:31,541 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:20:31,578 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:21:30,502 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:21:30,528 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:21:30,575 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:21:47,921 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:21:47,945 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:21:48,000 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:22:01,216 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:22:01,234 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:22:01,274 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:22:19,321 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:22:19,346 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:22:19,397 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:25:22,534 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:25:22,553 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:25:22,603 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:26:02,925 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:26:02,939 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:26:02,992 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:26:24,369 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:26:24,392 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:26:24,444 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:26:32,510 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:26:32,579 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:26:32,653 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:26:46,581 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:26:46,597 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:26:46,634 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:26:51,965 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:26:51,978 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:26:52,049 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:27:09,076 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:27:09,089 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:27:09,128 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:27:37,650 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:27:37,664 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:27:37,704 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:28:42,314 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-07 03:28:42,399 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:28:42,491 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:30:55,053 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:30:55,078 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:30:55,130 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:31:02,390 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:31:02,405 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:31:02,446 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:31:20,269 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:31:20,291 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:31:20,330 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:31:37,575 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:31:37,615 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:31:37,660 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:32:03,148 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:32:03,182 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:32:03,250 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:32:55,570 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-07 03:32:55,605 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:32:55,662 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:33:04,704 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-07 03:33:04,728 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:33:04,731 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:35:10,840 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:35:10,874 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:35:10,922 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:36:03,909 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:36:03,916 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:36:03,961 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:41:03,219 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:41:03,323 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:41:03,611 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:42:03,790 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:42:03,844 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:42:03,899 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:44:09,279 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:44:09,296 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:44:09,335 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:44:41,274 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:44:41,294 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:44:41,359 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:45:41,300 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:45:41,323 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:45:41,365 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:46:48,255 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:46:48,282 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:46:48,335 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:48:09,043 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:48:09,068 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 152 resources from src\main\resources to target\classes
+2024-05-07 03:48:09,118 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:48:45,639 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-07 03:48:45,688 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:48:45,823 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
+2024-05-07 03:48:56,829 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-07 03:48:56,850 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 03:48:56,869 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gee ann\Documents\Nikoy Docs\ticketSwiftSpringBoot\SE101\ticketReservation\src\test\resources
