@@ -1,0 +1,178 @@
+@import url(fontawesome-all.min.css);
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+
+
+/* LOG IN FORM */
+
+        body {        
+            font-family: "Source Sans Pro", Helvetica, sans-serif;
+            margin: 80px;
+            padding: 10px;
+            display: flex;
+            justify-content: flex-end; /* Align to the right */
+            align-items: center;
+            height: 75vh;
+            /* background-image: url("../images/backgroundGIF.gif"); /* Background GIF */
+            background-size: cover;
+            font-weight: bolder;
+            color: #DE3263;
+            /*text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            outline-color: black;*/
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+            border-radius: 30px;
+            padding: 25px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            margin-left: 20px; /* Adjusted margin */
+            text-align: center; 
+            font-weight: bolder; 
+            font-size: 18px;
+            font-stretch: -10px;
+            font-family: "Source Sans Pro", Helvetica, sans-serif;
+        }
+
+        .button {
+            padding: 2px 5px; /* Match padding with button */
+            background-color: #585858;
+            border: none;
+            border-radius: 100px;
+            cursor: pointer;
+            font-size: 14px;
+            text-decoration: none;
+            display: block;
+            width: 80%; 
+            height: 45px;
+            margin: 10px auto; 
+            border-radius: 4px;
+            font-family: "Source Sans Pro", Helvetica, sans-serif;
+            box-shadow: 0 0 1px rgba(0, 0, 0, .1);
+            font-weight: bolder;
+            color: white;
+        }
+
+        .button:hover {
+            background-color: #f2849e; /* Lighter shade of pink on hover */
+        }
+
+        #createAccountLink {
+            color: #585858;
+            font-size: 14px; /* Adjust the font size as desired */
+            text-decoration: none; /* Remove underline */
+            cursor: pointer;
+            text-align: center;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        #createAccountLink:hover {
+            text-decoration: none;
+            color: #DE3263;
+        }
+
+        #forgotPasswordLink {
+            color: #333;
+            text-decoration: none;
+            font-size: 11px;
+            text-align: right;
+            display: block;
+            margin-top: -5px;
+            font-weight: 200px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text-shadow for contrast */ 
+        }
+
+        #forgotPasswordLink:hover {
+            text-decoration: underline;
+            color: #DE3263;
+
+        }
+
+        #createAccount {
+            padding: 2px 5px; /* Match padding with button */
+            cursor: pointer;
+            font-size: 14px; /* Match font size */
+            text-decoration: none;
+            display: block;
+            width: 80%; /* Set width to 100% */
+            height: 45px;
+            margin: 10px auto; /* Center the button */
+            border-radius: 4px;
+            font-family: "Source Sans Pro", Helvetica, sans-serif;
+            font-weight: 250px;
+            text-align: center;
+            color: #333;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        /* Password visibility toggle styles */
+        .password-toggle {
+            position: relative;
+            margin-bottom: 15px;
+        }
+
+        .input-box input[type="text"],
+        .input-box input[type="password"] {
+            padding-right: 50px;
+            font-weight: bolder; /* Make text thicker */
+            color: black;
+            width: calc(100% - 70px);
+            height: 10px;
+            margin-top: 10px;
+            border: 2px solid rgba(255,255,255, .2);
+            border-radius: 40px;
+            padding: 20px 45px 20px 20px;
+            border-color: black;
+            opacity: 65%;       
+        }
+
+         .input-box input::placeholder {
+            color: #585858;
+            opacity: 70%;
+        }
+
+        .toggle-icon {
+            position: absolute;
+            top: 58%;
+            right: 5px;
+            transform: translateY(-50%);
+            cursor: pointer;
+            height: 15px;
+            width: 20px;
+            opacity: 80%;
+            margin-right: 10px;
+        }
+
+        /* Styles for the logo and tagline */
+        .logo-container {
+            text-align: center; /* Center the content horizontally */
+            margin-left: 50px; /* Add margin to align with the left side */
+            margin-top: -30px;
+        }
+
+        .logo {
+            width: 300px; /* Adjust width as needed */
+            margin-top: -80px;
+            padding-right: 80px;
+        }
+
+        .tagline {
+            font-size: 20px;
+            color: #de7e95; /* Adjust color as needed */
+            margin-top: -50px;
+            font-weight: bolder;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text-shadow for contrast */
+            letter-spacing: 4px;
+            padding-right: 80px;
+        }
+
+        .reserve-text {
+            font-size: 15px;
+            color: white; /* Adjust color as needed */
+            text-align: center;
+            margin-top: -5px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text-shadow for contrast */ ;
+            padding-right: 80px;
+            letter-spacing: 3px;
+        }

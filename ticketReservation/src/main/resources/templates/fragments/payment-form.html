@@ -75,7 +75,7 @@
 
 			<div class="right-container">
 
-			  <span>Payment Details - <i>Transaction ID : 023012394</i></span>
+			  <span>Payment Details</span>
 			  <div class="payment-container">
 				
 				<div class="left-container">
@@ -169,11 +169,11 @@
 						</tr>
 						<tr>
 							<td> 
-								<select name="seat" id="seat-level-price">
-									<option value="VIP"> VIP ₱4,410</option>
-									<option value="Gold"> Gold ₱3,500</option>
-									<option value="Silver"> Silver ₱2,000</option>
-									<option value="Regular"> Regular ₱1,500</option>
+								<select name="seat" id="seat-level-price">	
+									<<option value="VIP" th:each="details:${details}">
+										<span th:text="${details.seat_level}">VIP</span> 
+										<span th:text="${details.prices}">₱4,410</span>
+									</option>
 								</select>
 							</td>
 						  <td>
@@ -182,7 +182,7 @@
 						</tr>
 						<tr>
 						  <th>Total</th >
-						  <td>₱9000</td>
+						  <td>0.00</td>
 						</tr>
 					  </table>
 					  <button type="submit">Pay</button>

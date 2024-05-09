@@ -56,26 +56,29 @@
 	            <h2>USER PROFILE</h2>
 	    	</div>
 	    	<div class="user-info">
-					<div class="left-side">
-						<p>Email : earlbandiola435@gmail.com</p>
-						<p>Account Name : Earl Verzon</p>
-						<p>Username : TraderOps</p>
-						<p>Password : **********</p>
+					<div class="left-side" th:each="usermodel:${usermodel}">
+						<p>Email : <span th:text="${usermodel.email}">earlbandiola435@gmail.com</span></p>
+						<p>Account Name : <span th:text="${usermodel.firstName}">Earl</span> <span th:text="${usermodel.lastName}">Verzon</span></p>
+						<p>Username : <span th:text="${usermodel.username}">TraderOps</span></p>
 					</div>
 					<div class="right-side">
-						<form>
+						<form th:action="@{/TicketSwift/changingPassword}" method="post" th:object="${changepass}">
 		            		<h3>Change Password</h3>
-		            		<input type="password" placeholder="Current Password">
-		            		<input type="password" placeholder="New Password">
+		            		<input 	th:field="*{pass1}" type="password" placeholder="Current Password">
+		            		<input 	th:field="*{pass2}" type="password" placeholder="New Password">
+							<div th:if="${updateFailed}" class="alert alert-danger" role="alert" style="							
+							color: red;
+							font-size: 0.72em;
+							text-align: right;">
+							    The password you entered in current password is incorrect.
+							</div>
+
 		            		<div class="submitBtn">
 								<input type="submit" value="Change">
 							</div>
-						</form>	
+						</form>
 	        		</div>
 				</div>
-				<!-- Footer -->
-					<footer th:replace="~{fragments/footer.html::footer}"/>
-					</footer>
 	
 	    <script src="/assets/js/jquery.min.js"></script>
 	    <script src="/assets/js/browser.min.js"></script>

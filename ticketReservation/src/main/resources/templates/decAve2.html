@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:replace="~{fragments/head.html :: head}"/>
+		<link rel="stylesheet" href="/assets/css/payment.css" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<h1>December Avenue</h1>
+							<span class="image main"><img src="/images/decAveBGpix.jpg" alt="" /></span>
+
+							<div class="detailsDecAve">
+								<p>
+									The band first announced the show with a teaser on social media revealing 
+									the date and location. In a later post, the band shared that ticket details 
+									will be released soon. The concert is part of their year-long celebration for 
+									their 15th anniversary.
+									Last February, the band’s Langit Mong Bughaw (Your Blue Sky) album achieved 
+									the record for being the most streamed OPM album of all time, with over 
+									720 million streams. In an Instagram post sharing the news, the band wrote, 
+									“What a way to feel your love on our 15th year as a band! Maraming maraming 
+									salamat sa lahat ng patuloy na nagsstream (Thank you so much to everyone 
+									who streamed it). We love you, and we hope to see you all this year and say 
+									thank you in person!” 
+								</p>
+
+								<p>
+									Langit Mong Bughaw featured the band’s biggest hits, including “Bulong” (Whisper), 
+									“Kung Di Rin Lang Ikaw” (If It Wasn’t Just You) featuring Moira dela Torre, 
+									“Sa Ngalan Ng Pag-ibig” (In The Name Of Love), and “Huling Sandali” 
+									(The Last Moment), to name a few. All four songs have over a hundred million 
+									streams apiece, making December Avenue one of the most streamed Filipino artists 
+									today.
+								</p>
+
+								<p>
+									<i>
+										<strong>
+											"From instagram posted by SM Mall of Asia (smmoaarena)" - 
+											
+										</strong>
+										<a href="https://www.instagram.com/p/Cx4yO5sB-ds/?img_index=1">
+											https://www.instagram.com/p/Cx4yO5sB-ds/?img_index=1
+										</a>
+									</i>
+								</p>
+
+								<section>
+									<p> 
+										<strong >
+											"SplashMob, get ready to be blown away as we celebrate music, water and life!
+											Party with December Avenue, Mayonnaise and more exciting lineup of artists 
+											at this year's HYDRO Manila Music Festival happening on October 14, 2023 
+											at the SM MOA Concert Grounds!"
+											<br>
+											<br>
+										</strong>
+											"Secure your tickets to <strong>#HYDROManila2023AtSMMOAConcertGrounds</strong> today, 
+											available online at <a href="https://www.smtickets.com">www.smtickets.com</a> and at @sm_tickets outlets."
+									</p>
+
+									<img src="/images/decAve1.png" 
+									alt="December Avenue">
+								</section> 
+						
+
+								<article>
+									<strong>VIP Tickets:</strong> For those who want to enjoy the ultimate experience, 
+									our VIP tickets offer premium seating and exclusive perks. 
+									Priced at <strong>₱4,410.00</strong>, these tickets provide unparalleled comfort and luxury.
+									<br>
+									<strong>Gold Tickets:</strong> Our Gold tickets are perfect for those seeking a balance of 
+									value and quality. Priced at <strong>₱3,500.00</strong>, these seats offer excellent 
+									views and amenities, ensuring a memorable event experience.
+									<br>
+									<strong>Silver Tickets:</strong> If you're looking for a great seat at an affordable price, 
+									our Silver tickets are the ideal choice. Priced at <strong>₱2,000.00</strong>, these seats 
+									provide good views of the event without breaking the bank.
+									<br>
+									<strong>Regular Tickets:</strong> Our Bronze tickets offer fantastic value for those on a budget. 
+									Priced at <strong>₱1,500.00</strong>, these seats still provide an enjoyable event experience 
+									at a more economical price point.
+									<br>
+								</article>
+								<p>
+									To secure your preferred seat level, simply select the appropriate option from 
+									the dropdown menu below. Don't wait too long though, as tickets are selling 
+									fast!
+								</p>
+							</div>
+
+						
+							
+							<form th:replace="~{fragments/payment-form.html :: payment-form}"/>
+							</form>
+							
+						</div>
+					</div>
+
+				<!-- Footer -->
+
+
+		<!-- Scripts -->
+			<div th:replace="~{fragments/scripts.html :: scripts-js}">
+			</div>
+
+	</body>
+</html>

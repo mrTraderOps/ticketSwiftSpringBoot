@@ -16,7 +16,7 @@
         margin: 50px auto;
         background-color: rgba(255, 255, 255, 0.7);
         border-radius: 30px;
-        padding: 20px;
+        padding: 39px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         opacity: 80%;
         font-weight: bolder; 
@@ -72,8 +72,8 @@
 
     .form-group #continuePasswordBtn {
         position: absolute;
-        right: 0;
-        margin-top: 20px;
+		margin-top: 67px;
+		margin-right: 140px;
         padding: 10px;
         background-color: #585858;
         color: #fff;

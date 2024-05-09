@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+<body>
+	<div th:fragment="publicPrice">
+		<div class="inner">				
+			<h2>SELECT YOUR TICKET</h2>
+			<p>To buy your ticket please <a th:href="@{/TicketSwift/login}">login here.</a></p>
+				<section>
+					<div class="table-wrapper">
+						<table>
+							<thead>
+								<tr>
+									<th>Seat Levels</th>
+									<th>Prices</th>
+									<th>Dates</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr th:each="details : ${details}">
+									<td th:text="${details.seat_level}"></td>
+									<td th:text="${details.prices}"></td>
+									<td th:text="${details.date}"></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</section>
+		</div>
+	</div>
+</body>
+</html>

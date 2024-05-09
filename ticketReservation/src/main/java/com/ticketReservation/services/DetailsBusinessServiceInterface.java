@@ -3,7 +3,6 @@ package com.ticketReservation.services;
 import java.util.List;
 
 import com.ticketReservation.models.eventdetailsModel;
-import com.ticketReservation.models.pricesModel;
 
 
 public interface DetailsBusinessServiceInterface {
@@ -14,6 +13,20 @@ public interface DetailsBusinessServiceInterface {
 	
 	public List<eventdetailsModel> getDecAve();
 	
-	public List<eventdetailsModel> getAuFest();
+	public List<eventdetailsModel> getKeshi();
+	
+	public List<eventdetailsModel> getDion();
+	
+	public List<eventdetailsModel> getCircus();
+	
+	public List<eventdetailsModel> getZack();
+	
+	public List<eventdetailsModel> getAuFest();	
+	
+	public long addOne(eventdetailsModel newDetails);
+	
+	public boolean deleteOne(long id);
+	
+	public eventdetailsModel updateOne(long idToUpdate, eventdetailsModel updateDetails);
 	
 }

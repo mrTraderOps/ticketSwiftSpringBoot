@@ -6,7 +6,6 @@ import java.sql.SQLException;
 import org.springframework.jdbc.core.RowMapper;
 
 import com.ticketReservation.models.eventdetailsModel;
-import com.ticketReservation.models.pricesModel;
 
 public class DetailsMapper implements RowMapper<eventdetailsModel> {
 

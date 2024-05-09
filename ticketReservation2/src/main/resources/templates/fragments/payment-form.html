@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<body>
+	<div th:fragment="payment-form">
+		<h2 class="purchase-here" style="margin-top: 74px; font-size: 1.5em;" >PURCHASE HERE</h2>
+		<form class="payment-form">
+
+		<div class="container">
+
+			<div class="left-container">  
+				<span>Payment Method</span>
+				<div class="card-container">
+	
+					<div class="card-container-1">
+
+						<div class="gcash">
+							<div class="card-header">
+								<button class="credit-card-btn" id="gcash-header" data-target="card-body-cash" >
+								<div class="credit-card-container">
+									<span >GCASH</span>
+									<div class="icons">
+									<img src="/images/gcash.jpg" width="30">
+									</div>
+								</div>
+								</button>
+							</div>
+						</div>
+							
+						<div class="online-bank">
+							<div class="card-header">
+								<button class="credit-card-btn" id="bank-header" data-target="card-body-bank" >
+									<div class="credit-card-container">
+										<span>Online Bank</span>
+										<div class="icons">
+											<img src="/images/bpi_icon.png" width="36" height="30">
+											<img src="/images/bdo_icon.png" width="30">
+											<img src="/images/east-west_icon.png" width="30">
+										</div>
+									</div>
+								</button>
+							</div>
+						</div>
+		
+						<div class="card-cvc" >
+							<div class="card-header">
+								<button class="credit-card-btn" id="card-header" data-target="card-body-credit">
+									<div class="credit-card-container">
+										<span>Credit Card</span>
+										<div class="icons">
+											<img src="/images/mastercard.png" width="30">
+											<img src="/images/visa.png" width="30">
+										</div>
+									</div>
+								</button>
+							</div>
+						</div>
+		
+						<div class="card-paypal">
+							<div class="card-header">
+								<h2>
+									<button class="btn" type="button" id="paypal-header" data-target="card-body-paypal">
+										<div class="card-title">
+											<span>Paypal</span>
+											<img src="/images/paypal_Logo.png" width="30">
+										</div>
+									</button>
+								</h2>
+							</div>
+						</div>
+
+					</div>   
+
+				</div>
+			</div>
+
+			<div class="right-container">
+
+			  <span>Payment Details - <i>Transaction ID : 023012394</i></span>
+			  <div class="payment-container">
+				
+				<div class="left-container">
+					<div class="details-container">
+					
+						<div class="card-body" id="card-body-credit">
+							<div class="card-body-container">
+								
+								<span class="card-text">Card Number</span>
+		
+								<div class="card-number">
+									<i class="credit-card-icon"></i>
+									<input type="text" class="form-control" placeholder="0000 0000 0000 0000">
+								</div> 
+		
+								<div class="exp-cvc">
+									<div class="expiry-date">
+										<span class="card-text">Expiry Date</span>
+			
+										<div class="input">
+											<i class="calendar"></i>
+											<input type="text" class="form-control" placeholder="MM/YY">      
+										</div>
+									</div>
+								<div class="cvc">
+		
+									<span class="card-text">CVC/CVV</span>
+		
+									<div class="input">
+									<i class="lock"></i>
+									<input type="text" class="form-control" placeholder="000">         
+									</div> 
+									
+								</div>
+								
+								</div>
+		
+								<span class="text-muted certificate-text"><i class="lock"></i> Your transaction is secured with ssl certificate</span>
+							
+							</div>
+						</div>
+  
+						<div class="card-body" id="card-body-paypal">
+							<div class="card-body-container">
+								<span class="card-text">Paypal Email</span>
+								<input type="text" class="form-control" placeholder="ex. juandelacruz@gmail.com">
+							</div>
+						</div>
+	
+						<div class="card-body" id="card-body-bank">
+	
+						<span class="card-text">Account Name</span>
+							<div class="account-name">
+							<i class=""></i>
+							<input type="text" class="form-control" placeholder="ex. Juan Dela Cruz">
+							</div>
+						
+							<span class="card-text">Account Number</span>
+							<div class="account-name">
+								<i class=""></i>
+								<input type="text" class="form-control" placeholder="123456789">
+							</div>
+						</div>
+	
+						<div class="card-body" id="card-body-cash">
+	
+						<span class="card-text">GCash Name</span>
+							<div class="account-name">
+							<i class=""></i>
+							<input type="text" class="form-control" placeholder="ex. Juan Dela Cruz">
+							</div>
+						
+							<span class="card-text">Mobile Number</span>
+							<div class="account-name">
+								<i class=""></i>
+								<input type="text" class="form-control" placeholder="ex. +63912 345 6790">
+							</div>
+						</div>
+				  	</div>
+				</div>
+
+				<div class="summary-container">
+				  <div class="receipt-container">
+					<h3>Summary</h3>
+
+					<form action="">
+					  <table style="width: fit-content;">
+						<tr>
+						  <th>Ticket Seat</th>
+						  <th>Quantity</th>
+						</tr>
+						<tr>
+							<td> 
+								<select name="seat" id="seat-level-price">
+									<option value="VIP"> VIP ₱4,410</option>
+									<option value="Gold"> Gold ₱3,500</option>
+									<option value="Silver"> Silver ₱2,000</option>
+									<option value="Regular"> Regular ₱1,500</option>
+								</select>
+							</td>
+						  <td>
+							<input type="number" id="quantity" name="quantity" min="1" max="5">
+						  </td>
+						</tr>
+						<tr>
+						  <th>Total</th >
+						  <td>₱9000</td>
+						</tr>
+					  </table>
+					  <button type="submit">Pay</button>
+					</form>
+
+				  </div>
+				</div>
+
+			  </div>
+
+			</div>
+
+		</div>
+
+	</form>
+	</div>
+	
+	
+</body>
+</html>

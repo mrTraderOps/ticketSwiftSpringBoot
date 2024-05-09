@@ -2,14 +2,23 @@ package com.ticketReservation.data;
 
 import java.util.List;
 
-import com.ticketReservation.models.eventdetailsModel;
-import com.ticketReservation.models.pricesModel;
-
-
-public interface DetailsDataAccessInterface {
+public interface DetailsDataAccessInterface<T> {
 	
-	public List<eventdetailsModel> getDecAve();
+	public List<T> getDecAve();
 	
-	public List<eventdetailsModel> getAuFest();
+	public List<T> getKeshi();
 	
+	public List<T> getDion();
+	
+	public List<T> getCircus();
+	
+	public List<T> getZack();
+	
+	public List<T> getAuFest();
+	
+	public long addOne(T newDetails);
+	
+	public boolean deleteOne(long id);
+	
+	public T updateOne(long idToUpdate, T updateDetails);
 }

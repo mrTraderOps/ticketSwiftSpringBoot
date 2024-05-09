@@ -23,4 +23,5 @@
     <fullyQualifiedTypeName name="com.ticketReservation.services.ImageService"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="com.ticketReservation.models.eventdetailsModel"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
 </qualifiedTypeNameHistroy>

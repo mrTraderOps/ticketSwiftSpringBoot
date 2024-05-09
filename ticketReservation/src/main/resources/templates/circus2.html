@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:replace="~{fragments/head.html :: head}"/>
+		<link rel="stylesheet" href="/assets/css/payment.css" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<h1 style="text-align: center;">CIRCUS MUSIC FESTIVAL</h1>
+						
+							<span class="image main" style="display: flex; flex-direction: row;">
+								<img src="/images/circusMakati.png" alt="Circus Music Festival" style="width: 48%;" />
+								<div style="padding:115px 7%; display: flex; align-items: center; flex-direction: column;">
+									<h2 style="font-size: 2em; text-align: center; margin-bottom: 50px;">
+										Circus Music Festival 4
+									</h2>
+									<p style="font-weight: 600;">- 04 May 2024, 08:00am</p>
+									<p style="font-weight: 600;">- Circuit Makati Open Grounds</p>
+									<p style="font-weight: 600;">- No age restriction</p>
+								</div>
+					
+							</span>
+		
+							<div class="detailsDecAve">
+						
+								
+								<div style="
+										display: ruby-text;
+										padding: 10px 8%;
+								">
+									<h3 style="margin-bottom: 20px;"> 
+										Description
+									</h3>
+									<p>
+										Get ready to groove to the rhythm and experience the electrifying atmosphere at 
+										Circus Music Festival 4!  This year, prepare yourself for an unforgettable 
+										journey into the heart and soul of Original Pinoy Music (OPM).				
+									</p>
+									<img src="/images/circus-conc1.png" alt="Circus Music Festival"/>
+									<p>
+										The Circus Music Festival promises to be a musical extravaganza 
+										like no other, featuring an array of live performances that will captivate 
+										and enthrall audiences of all ages. From iconic classics to cutting-edge hits, 
+										this festival celebrates the rich diversity and creativity of Filipino music.
+									</p>
+									<img src="/images/circus-conc2.png" alt="Circus Music Festival"/>
+									<p>
+										Immerse yourself in the vibrant energy of the festival grounds as talented artists 
+										take the stage to showcase their passion and talent. Get ready to dance, sing, and lose yourself in the infectious 
+										beats of OPM!
+										
+									</p>
+									<p>
+										Don’t miss out on this opportunity to be part of a musical spectacle that will leave you wanting more. 
+										Save the dates and mark your calendars for Circus Music Festival 4 happening on May 4, 2024, starting from 8:00 AM onwards, 
+										at Makati Circuit Concert Ground, Makati City.
+									</p>
+									<img src="/images/circus-prices.png" alt="Circus Music Festival Prices" style="width: 80%;">									
+								</div> 
+							
+
+							<form th:replace="~{fragments/payment-form.html :: payment-form}"/>
+							</form>
+						</div>
+					</div>
+
+				<!-- Footer -->
+			</div>
+
+		<!-- Scripts -->
+			<div th:replace="~{fragments/scripts.html :: scripts-js}">
+			</div>
+
+	</body>
+</html>

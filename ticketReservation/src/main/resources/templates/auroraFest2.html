@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
+	<head th:replace="~{fragments/head.html :: head}"/>
+		<link rel="stylesheet" href="/assets/css/other-main.css" />
+		<link rel="stylesheet" href="/assets/css/payment.css" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header th:replace="~{fragments/header.html :: header}"/>
+					</header>
+
+				<!-- Menu -->
+					<nav th:replace="~{fragments/navbar.html :: navbar}"/>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>CLARK AURORA MUSIC FESTIVAL</h1>
+							<span class="image main"><img src="/images/auroraBGpix.jpg" alt="" /></span>
+							<p>Mark your calendars for an electrifying weekend because the Philippines' Largest Music Festival is back in Clark on April 6-7, 2024!</p>
+							<p>After the resounding success of its debut last April 2023, drawing over 150,000 attendees, the Aurora Music Festival is set to ignite the country's concert scene once more. This year, EP!C Events is pulling out all the stops, bringing you the BIGGEST names in the Philippine Music Industry. But that's not all - brace yourselves for an even more spectacular sight as larger-than-life hot air balloons illuminate the Clark skyline, creating <br> an unforgettable backdrop for a weekend filled with music and magic.</p>
+							<p>Get ready to groove to the beats of the finest OPM (Original Pilipino Music) artists as they take the stage on Day 1 and Day 2 of the Aurora Music Festival:<br>
+							<br>
+							April 6 (Day 1)
+							<br>• SB19
+							<br>• Moira Dela Torre
+							<br>• December Avenue
+							<br>• Juan Karlos
+							<br>• Adie
+							<br>• Cup of Joe 
+							<br>
+
+							<span class="image D1"><img src="/images/dayOneAF.jpg" alt="" /></span>			
+
+							<br>	
+							April 7 (Day 2)
+
+							<br>• Rico Blanco
+							<br>• Parokya ni Edgar
+							<br>• Kamikazee
+							<br>• Orange & Lemons
+							<br>• Itchy Worms
+							<br>• Andrew E.
+
+							<span class="image D1"><img src="/images/dayTwoAF.jpg" alt="" /></span>		
+
+							<p>But wait, there's more! This event isn't just your average music festival. It's the only OPM Music Festival that embarks on a tour, hitting up Clark, Cebu, and Davao with its sensational lineup.</p>
+
+							<p>In collaboration with the Clark Development Corporation and The Medical City Clark, and proudly brought to you by EPIC EVENTS, EGGSTOP, and MR. MACCHIATO, the Clark Aurora Music Festival promises an unforgettable experience. And let's not forget our proud presenter, FWD Insurance, the Official Insurance Partner of the event. So mark your calendars and get ready to immerse yourself in the magic of OPM under the stars!</p>
+
+							<span class="image tix"><img src="/images/seatPlanAF.jpg" alt="" /></span>					
+							
+							<p><br>For more updates and all the juicy details, visit their Facebook page <a href="https://www.facebook.com/ClarkHotAirBalloonFest"> @Clark Aurora Music Festival </a>! Stay tuned for behind-the-scenes sneak peeks, artist announcements, and exclusive giveaways that will make your festival experience even more epic! 🎶		
+						
+							<form th:replace="~{fragments/payment-form.html :: payment-form}"/>
+							</form> 	
+						
+						
+						</div>
+						
+						
+						
+					</div>
+
+				<!-- Footer -->
+					
+
+		<!-- Scripts -->
+			<div th:replace="~{fragments/scripts.html :: scripts-js}"/>
+			</div>
+
+	</body>
+</html>

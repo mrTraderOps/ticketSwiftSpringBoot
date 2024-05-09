@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmnls:th="http://thymeleaf.org" xmlns:xmnls="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" th:href="@{/assets/css/loginForm.css}" />
     <noscript><link rel="stylesheet" th:href="@{/assets/css/noscript.css}" /></noscript>
-    <title>Account Profile</title>
+    <title>TicketSwift Login</title>
     <style>
 
     body {
         background-image: url("/images/backgroundGIF.gif"); /* Background GIF */
         background-size: cover;
-        background-position: center ;
+        background-position: center;
     }
     </style>
 </head>
@@ -27,32 +27,45 @@
     <!-- Login form -->
     <div class="container"> 
         <h3 style="letter-spacing: 3px; font-weight: bolder;">LOG IN TO TICKETSWIFT</h3>
-        <form action="#" method="POST">
+        <form th:action="@{/TicketSwift/login/logging-in}" method="post" th:object="${user}">
             <div class="input-box">
-                <input type="text" id="username" placeholder="Username" required autocomplete="username">
+                <input th:field= "*{username}" type="text" id="username" placeholder="Username" required autocomplete="username">
             </div>
             <div class="input-box password-toggle">
-                <input type="password" id="password" placeholder="Password" required>
+                <input th:field= "*{password}" type="password" id="password" placeholder="Password" required>
                 <img class="toggle-icon" src="/images/showPass.png" alt="Toggle Password Visibility" onclick="togglePasswordVisibility()">
             </div>
-            <a href="#" id="forgotPasswordLink">Forgot Password?</a>
-            <button type="submit" class="button" style="letter-spacing: 3px;">LOG IN</button>
+			<p th:if="${invalidAccount}" style="			
+							font-size: 0.8em;
+							font-weight: 600;
+							color: red;
+							text-align: start;
+							margin-left: 22px;
+							margin-bottom: 36px;
+							margin-top: -6px;">
+							Username or password you entered is invalid</p>
+            <button type="submit" class="button" style="letter-spacing: 3px;" onclick="clearForm()">LOG IN</button>
             <p id="createAccount">Don't have an account?<a th:href="@{login/signup}" id="createAccountLink">Register</a></p>
         </form>
     </div>
 
    <script>
-    function togglePasswordVisibility() {
-        var passwordField = document.getElementById("password");
-        var toggleIcon = document.querySelector(".toggle-icon");
-        if (passwordField.type === "password") {
-            passwordField.type = "text";
-            toggleIcon.src = "/images/showPass.png"; /* Change to showPass.png */
-        } else {
-            passwordField.type = "password";
-            toggleIcon.src = "/images/hidePass.png"; /* Change to hidePass.png */
-        }
-    }
-</script>
+	    function togglePasswordVisibility() {
+	        var passwordField = document.getElementById("password");
+	        var toggleIcon = document.querySelector(".toggle-icon");
+	        if (passwordField.type === "password") {
+	            passwordField.type = "text";
+	            toggleIcon.src = "/images/showPass.png"; /* Change to showPass.png */
+	        } else {
+	            passwordField.type = "password";
+	            toggleIcon.src = "/images/hidePass.png"; /* Change to hidePass.png */
+	        }
+	    }
+		
+		function clearForm() {
+		        document.getElementById("loginForm").reset();
+		    }
+			
+	</script>
 </body>
 </html>

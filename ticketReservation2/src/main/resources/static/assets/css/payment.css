@@ -1,0 +1,205 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
+
+
+.container {
+  height: 79vh;
+}
+
+.card{
+  border: none;
+}
+
+.card-header {
+  padding: .5rem 1rem;
+  margin-bottom: 0;
+  background-color: rgba(0,0,0,.03);
+  border-bottom: none;
+}
+
+.btn-light:focus {
+color: #212529;
+background-color: #e2e6ea;
+border-color: #dae0e5;
+box-shadow: 0 0 0 0.2rem rgba(216,217,219,.5);
+}
+
+.form-control{
+
+height: 50px;
+border: 2px solid #eee;
+border-radius: 6px;
+font-size: 14px;
+}
+
+.form-control:focus {
+color: #495057;
+background-color: #fff;
+border-color: #039be5;
+outline: 0;
+box-shadow: none;
+
+}
+
+.input{
+
+position: relative;
+}
+
+.input i{
+
+position: absolute;
+top: 16px;
+left: 11px;
+color: #989898;
+}
+
+.input input{
+
+text-indent: 25px;
+}
+
+.card-text{
+font-size: 15px;
+margin-left: 6px;
+}
+
+.certificate-text{
+
+font-size: 12px;
+}
+
+
+.billing{
+font-size: 11px;
+}  
+
+.super-price{
+
+top: 0px;
+font-size: 22px;
+}
+
+.super-month{
+
+font-size: 11px;
+}
+
+
+.line{
+color: #bfbdbd;
+}
+
+.free-button{
+
+background: #1565c0;
+height: 52px;
+font-size: 15px;
+border-radius: 8px;
+}
+
+
+.payment-card-body{
+
+flex: 1 1 auto;
+padding: 24px 1rem !important;
+
+}
+
+form .container {
+  display: flex;
+}
+  .container {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+    .left-container {
+      background-color: #f7f7f7;
+      padding: 30px 5%;
+    }
+    .right-container {
+      background-color: #f7f7f7;
+      padding: 30px 5%;
+      width: 100vh;
+    }
+
+.card-body {
+  display: none;
+}
+.payment-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.summary-container {
+  width: 30vw;
+  max-width: fit-content;
+}
+  table {
+    width: 78vw;
+    border-spacing: 10px;
+  
+  }
+    tr {
+      text-align: center;
+    }
+.receipt-container > button {
+  margin-top: 10px;
+  float: right;
+}
+  .receipt-container > h3 {
+    padding: 10px 0%;
+  }
+.credit-card-container, .icons, .card-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.icons, .card-title {
+  gap: 5px;
+}
+
+.credit-card-container > span {
+  margin-right: 10px;
+}
+
+.left-container > span {
+  margin-bottom: 10px;
+}
+
+.purchase-here {
+  text-align: center;
+}
+
+article {
+	padding: 30px;
+}
+
+section > img {
+	width: 500px;
+	height: 500px;
+	padding: 20px;
+}
+section > p {
+	padding: 40px;
+}
+
+.detailsDecAve {
+	padding: 10px;
+}
+	.detailsDecAve > p {
+		padding: 10px;
+	}
+	.detailsDecAve > section {
+		display: flex;
+		flex-direction: row;
+	}
+
+.payment {
+	display: flex;
+	flex-direction: row;
+	padding: 50px;
+}

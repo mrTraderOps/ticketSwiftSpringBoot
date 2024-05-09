@@ -6,13 +6,17 @@
 				    margin-left: 6px;
 				    font-size: 1.2em;">Menu</h2>
 		<ul>
-			<li class="account-pic">
-				<a th:href="@{/TicketSwift/account}">Account : <i>Earl Verzon</i></a> 
+			<li class="account-pic" th:each="usermodel:${usermodel}">
+				<a th:href="@{/TicketSwift/account}">
+					Account : 
+					<i th:text="${usermodel.firstName}"></i> 
+					<i th:text="${usermodel.lastName}"></i>
+				</a> 
 				<img src="/images/mini_profile.png" alt="Your Name" class="mini-profile" style="width: 60px;">
 			</li>
 			
 			<li><a th:href="@{/events}">Upcoming Events</a></li>
-			<li><a th:href="@{/TicketSwift/login}">Login</a></li>
+			<li><a th:href="@{/TicketSwift/login}" th:text="${status}">Login</a></li>
 		</ul>
 	</nav>
 </body>
